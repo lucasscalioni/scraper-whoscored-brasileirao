@@ -20,8 +20,8 @@ This project aims to automate the collection of detailed player performance stat
 - ✅ Script for collecting player statistics per match (17,000+ rows)
 - ✅ Dataset includes stats such as:
   - `Name`, `Age`, `Position`, `Shots`, `SoT`, `KeyPasses`, `PassAccuracy`, `AerialsWon`, `Touches`, `Rating`
-  - `TackleWon`, `Interception`, `Clearance`, `ShotBlocked`, `Fouls`, `Dispossessed`, `Turnover`, etc.
-  - Match context: `Opponent`, `Home/Away`, `Date`, `Minutes played`
+  - `TackleWon`, `Interception`, `Clearance`, `ShotBlocked`, `Fouls`, `Dispossessed`, `Turnover`.
+  - Match context: `Opponent`, `Home/Away`, `Date`
 
 ## 📂 Project Structure (initial)
 
