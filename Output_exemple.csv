@@ -1,0 +1,47 @@
+﻿Name,Age,Position,Shots,SoT,KeyPasses,PassAccuracy,AerialsWon,Touches,Rating,TackleWon,Interception,Clearance,ShotBlocked,Fouls,PassCrossTotal,PassCrossAccurate,PassLongBallTotal,PassLongBallAccurate,PassThroughBallTotal,PassThroughBallAccurate,DribbleWon,FoulGiven,OffsideGiven,Dispossessed,Turnover,Time,Adversário,Data,Mandante
+Hugo Souza,27,GK,0	,0	,0	,85	,0	,28	,6.94,0	,0	,0	,0	,0	,0	,0	,8	,5	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Matheus França,25,DR,1	,1	,1	,92	,0	,72	,7.20,2	,0	,3	,0	,0	,2	,0	,3	,2	,0	,0	,0	,1	,1	,0	,2	,Corinthians,Bahia,03-Dec-24,True
+André Ramalho,34,DC,0	,0	,0	,97	,0	,75	,7.29,4	,1	,2	,1	,2	,0	,0	,6	,5	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Gustavo Henrique,33,DC,0	,0	,0	,93.6	,1	,57	,7.08,0	,3	,3	,1	,0	,0	,0	,10	,7	,0	,0	,0	,0	,0	,1	,0	,Corinthians,Bahia,03-Dec-24,True
+Matheus Bidu,26,DL,2	,1	,1	,88.4	,1	,63	,7.31,2	,1	,2	,0	,1	,1	,1	,6	,4	,0	,0	,0	,3	,0	,1	,2	,Corinthians,Bahia,03-Dec-24,True
+Breno Bidon,21,MC,1	,0	,1	,90.9	,0	,48	,7.76,5	,0	,0	,0	,0	,0	,0	,2	,1	,0	,0	,4	,2	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Raniele,29,MC,0	,0	,1	,93.3	,0	,41	,7.14,2	,1	,3	,0	,1	,1	,0	,5	,5	,0	,0	,1	,0	,0	,0	,1	,Corinthians,Bahia,03-Dec-24,True
+André Carrillo,34,MC,0	,0	,3	,96.2	,0	,65	,8.46,3	,1	,1	,0	,1	,2	,1	,0	,0	,0	,0	,2	,0	,0	,0	,1	,Corinthians,Bahia,03-Dec-24,True
+Rodrigo Garro,28,AMC,1	,0	,4	,85.3	,0	,81	,7.68,3	,0	,0	,0	,0	,3	,2	,7	,5	,0	,0	,2	,4	,0	,0	,2	,Corinthians,Bahia,03-Dec-24,True
+Yuri Alberto,25,FW,4	,1	,2	,71.4	,0	,23	,8.07,0	,2	,0	,0	,4	,0	,0	,0	,0	,0	,0	,0	,0	,1	,1	,1	,Corinthians,Bahia,03-Dec-24,True
+Memphis Depay,32,FW,6	,3	,2	,78.4	,0	,59	,8.79,2	,0	,1	,0	,1	,1	,0	,2	,1	,0	,0	,1	,2	,0	,2	,4	,Corinthians,Bahia,03-Dec-24,True
+Igor Coronado,33,Sub,1	,1	,0	,88.2	,0	,21	,6.18,0	,0	,0	,0	,0	,0	,0	,3	,1	,0	,0	,0	,0	,0	,0	,1	,Corinthians,Bahia,03-Dec-24,True
+Alex Santana,30,Sub,0	,0	,1	,100	,0	,20	,6.26,0	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Talles Magno,23,Sub,1	,0	,0	,100	,0	,3	,6.05,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Ángel Romero,33,Sub,1	,0	,0	,93.3	,0	,19	,6.24,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,1	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+José Martínez,31,Sub,0	,0	,0	,90	,0	,10	,6.06,0	,0	,0	,0	,0	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Fágner,36,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Pedro Henrique,35,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Charles,29,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Cacá,26,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Pedro Raúl,29,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Matheus Donelli,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Hugo,28,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Bahia,03-Dec-24,True
+Marcos Felipe,29,GK,0	,0	,0	,66.7	,1	,11	,5.85,0	,0	,0	,0	,0	,0	,0	,4	,1	,0	,0	,0	,1	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Kanu,29,DC,0	,0	,0	,94.3	,0	,63	,6.10,0	,2	,3	,2	,1	,0	,0	,4	,3	,0	,0	,0	,2	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Gabriel Xavier,24,DC,1	,0	,0	,89.7	,2	,53	,6.41,3	,3	,2	,1	,1	,0	,0	,3	,2	,0	,0	,0	,1	,0	,0	,1	,Bahia,Corinthians,03-Dec-24,False
+Nicolás Acevedo,26,DC,1	,1	,0	,94.1	,0	,79	,5.95,3	,1	,1	,0	,3	,0	,0	,9	,8	,0	,0	,0	,1	,0	,1	,1	,Bahia,Corinthians,03-Dec-24,False
+Santiago Arias,34,MR,2	,0	,1	,73.3	,1	,42	,6.06,0	,0	,0	,0	,0	,2	,1	,1	,0	,0	,0	,0	,0	,0	,1	,0	,Bahia,Corinthians,03-Dec-24,False
+Éverton Ribeiro,36,MC,0	,0	,0	,87.2	,0	,45	,5.69,0	,1	,0	,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,1	,1	,Bahia,Corinthians,03-Dec-24,False
+Caio Alexandre,27,MC,1	,0	,1	,91.3	,0	,61	,6.03,2	,0	,0	,0	,2	,2	,0	,2	,1	,0	,0	,1	,2	,0	,2	,0	,Bahia,Corinthians,03-Dec-24,False
+Luciano Juba,26,ML,0	,0	,3	,92.7	,0	,51	,6.44,1	,0	,1	,1	,0	,4	,2	,1	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Cauly,30,AMC,3	,1	,2	,88.6	,1	,62	,6.10,0	,0	,0	,0	,0	,3	,1	,3	,2	,0	,0	,1	,0	,0	,2	,6	,Bahia,Corinthians,03-Dec-24,False
+Thaciano,30,FW,1	,0	,0	,100	,0	,14	,5.87,0	,0	,0	,0	,0	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Luciano Rodríguez,22,FW,2	,0	,0	,77.8	,0	,26	,5.58,0	,0	,0	,0	,1	,0	,0	,1	,0	,0	,0	,1	,2	,1	,2	,4	,Bahia,Corinthians,03-Dec-24,False
+Everaldo,34,Sub,1	,0	,0	,100	,0	,2	,6.00,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Jean Lucas,27,Sub,0	,0	,0	,87.5	,0	,32	,6.14,1	,0	,1	,0	,1	,0	,0	,2	,2	,0	,0	,1	,1	,0	,1	,1	,Bahia,Corinthians,03-Dec-24,False
+Ademir,31,Sub,0	,0	,2	,100	,0	,15	,6.13,1	,0	,0	,0	,4	,2	,1	,0	,0	,0	,0	,0	,1	,0	,1	,1	,Bahia,Corinthians,03-Dec-24,False
+Gilberto,33,Sub,0	,0	,1	,90.5	,0	,23	,6.28,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Biel,25,Sub,0	,0	,0	,66.7	,0	,14	,5.93,0	,0	,0	,0	,0	,1	,0	,2	,1	,0	,0	,0	,0	,0	,0	,1	,Bahia,Corinthians,03-Dec-24,False
+Adriel,25,Sub,0	,0	,0	,78.3	,0	,31	,6.80,0	,0	,1	,0	,0	,0	,0	,9	,4	,0	,0	,1	,0	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Vitor Hugo,34,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Rafael Ratão,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Yago Felipe,31,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Cicinho,37,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Carlos de Pena,34,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
+Rezende,31,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Corinthians,03-Dec-24,False
