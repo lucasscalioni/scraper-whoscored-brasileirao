@@ -1,45 +1,90 @@
-# ⚽ WhoScored Brasileirão Scraper – Player Stats Automation (2024 & 2025)
+# ⚽ WhoScored Brasileirão Scraper – Automação de Estatísticas de Jogadores e Partidas (2024 & 2025)
 
-🚧 **Status:** In progress – data collection automated, dashboard in development
+🚧 **Status:** Em progresso – scraping finalizado para jogadores e eventos, estruturação e modelagem em andamento
 
-## 📌 Project Goal
+---
 
-This project aims to automate the collection of detailed player performance statistics from the Brazilian Série A (Brasileirão), using WhoScored.com as the data source. The goal is to structure the data in a format suitable for scouting analysis, performance tracking, and advanced visualization in Power BI.
+## 🎯 Objetivo
 
-## 🛠 Tools & Technologies
+Automatizar a coleta de estatísticas detalhadas de partidas e jogadores da Série A do Campeonato Brasileiro (2024 e 2025), utilizando o site WhoScored como fonte.  
+O projeto visa construir uma **base estruturada de dados para análise de performance, scouting e inteligência tática**, com visualizações em Power BI.
 
-- Python
-- Selenium + BeautifulSoup
-- Pandas
-- Power BI
-- CSV / TXT file handling
+---
 
-## 📈 What’s been done so far
+## 🛠 Ferramentas Utilizadas
 
-- ✅ Automated scraping of all available match URLs from Brasileirão 2024 (380+ games)
-- ✅ Script for collecting player statistics per match (17,000+ rows)
-- ✅ Dataset includes stats such as:
-  - `Name`, `Age`, `Position`, `Shots`, `SoT`, `KeyPasses`, `PassAccuracy`, `AerialsWon`, `Touches`, `Rating`
-  - `TackleWon`, `Interception`, `Clearance`, `ShotBlocked`, `Fouls`, `Dispossessed`, `Turnover`.
-  - Match context: `Opponent`, `Home/Away`, `Date`
+- **Python** (Selenium, BeautifulSoup, Pandas)
+- **Power BI**
+- **CSV/TXT** para ingestão de dados
+- **GitHub** para versionamento e documentação
 
-## 📂 Project Structure (initial)
+---
 
-## 📊 Next Steps
+## 📊 Dados Já Coletados
 
-- [ ] Enrich data with goals and assists
-- [ ] Create robust player ID (to handle transfers, age changes, position swaps)
-- [ ] Build interactive dashboards in Power BI
-- [ ] Extend to team-level and match-level statistics
-- [ ] Publish insights and visualizations
+### 🧍‍♂️ Estatísticas de Jogadores (por partida)
 
-## 📎 Notes
+Extraídas de mais de **400 partidas**, totalizando **+17.000 linhas**:
 
-> This is my first football analytics project and is part of my transition from general data analytics to sports data science.  
-> I’m learning in public and sharing progress as I go — feedback is welcome!
+Name, Age, Position, Shots, SoT, KeyPasses, PassAccuracy, AerialsWon, Touches, Rating, TackleWon, Interception, Clearance, ShotBlocked, Fouls, PassCrossTotal, PassCrossAccurate, PassLongBallTotal, PassLongBallAccurate, PassThroughBallTotal, PassThroughBallAccurate, DribbleWon, FoulGiven, OffsideGiven, Dispossessed, Turnover, Time, Adversário, Data, Mandante
 
-## 📬 Contact
+
+---
+
+### 📅 Cronologia de Eventos por Partida (timeline WhoScored)
+
+Cada linha representa um evento como gol, assistência, cartão ou substituição:
+
+minuto, time, tipo, jogador, assist, placar_momento, descricao, Resultado, Data
+
+
+---
+
+## 🧩 Estrutura e Modelagem (em andamento)
+
+Antes de visualizar os dados no Power BI, o foco agora está em **estruturar corretamente o modelo dimensional**:
+
+### 📁 Tabelas Fato e Dimensão
+
+| Tipo        | Tabela                    | Objetivo                                 |
+|-------------|---------------------------|-------------------------------------------|
+| Dimensão    | `dJogador`                | Unificar nomes, idade, posição, time atual |
+| Dimensão    | `dPartida`                | Criar um `MatchID` único por jogo         |
+| Dimensão    | `dTime`                   | Criar um `TeamID` e metadados do clube    |
+| Fato        | `fEstatisticasJogador`    | Métricas quantitativas por jogo           |
+| Fato        | `fEventosPartida`         | Timeline de eventos em granularidade      |
+
+---
+
+### 🧠 IDs inteligentes planejados
+
+- `PlayerID`: combinação de `nome`, `time`, `data de nascimento`, `posição` (para lidar com transferências e variações de nome)
+- `MatchID`: hash ou concatenação de `data + mandante + visitante`
+- `TeamID`: tabela única para normalizar os nomes dos times
+
+---
+
+## 📌 Próximos Passos
+
+- [ ] Criar `dJogador`, `dTime`, `dPartida` com chaves limpas e únicas
+- [ ] Tratar e padronizar nomes de jogadores
+- [ ] Relacionar as tabelas Fato e Dimensão (modelo estrela)
+- [ ] Cruzar com dados de outras fontes (FBref, Transfermarkt, StatsBomb)
+- [ ] Montar dashboards em Power BI com análise tática e de performance
+
+---
+
+## 📎 Observações
+
+> Este é meu primeiro projeto público de futebol analytics.  
+> Estou estruturando um pipeline completo, desde o scraping até a modelagem analítica.  
+> A documentação do processo faz parte da minha migração para a área de dados esportivos.  
+> Feedbacks, colaborações e conexões são bem-vindas!
+
+---
+
+## 📬 Contato
 
 **Lucas Scalioni de Souza**  
 [LinkedIn](https://www.linkedin.com/in/lucas-scalioni-de-souza-7b1537138)  
-Email: lucasscalioni@gmail.com
+📧 lucasscalioni@gmail.com
