@@ -1,13 +1,17 @@
-# ⚽ WhoScored Brasileirão Scraper – Automação de Estatísticas de Jogadores e Partidas (2024 & 2025)
+# ⚽ WhoScored Brasileirão Scraper – ETL & Automação de Estatísticas de Jogadores e Partidas (2024 & 2025)
 
-🚧 **Status:** Em progresso – scraping finalizado para jogadores e eventos, estruturação e modelagem em andamento
+🚧 **Status:** Em progresso – Scraping finalizado para jogadores e eventos; estruturação, modelagem e refinamento do pipeline ETL em andamento
 
 ---
 
 ## 🎯 Objetivo
 
-Automatizar a coleta de estatísticas detalhadas de partidas e jogadores da Série A do Campeonato Brasileiro (2024 e 2025), utilizando o site WhoScored como fonte.  
-O projeto visa construir uma **base estruturada de dados para análise de performance, scouting e inteligência tática**, com visualizações em Power BI.
+Desenvolver um pipeline ETL completo para automatizar a **coleta, transformação e carregamento** de estatísticas detalhadas de partidas e jogadores da Série A do Campeonato Brasileiro (2024 e 2025), utilizando o site WhoScored como fonte principal.
+
+**Pipeline ETL:**
+- **Extração (Extract):** Coletar dados brutos de mais de **400 partidas** (17.000+ linhas) utilizando Python, Selenium e BeautifulSoup.
+- **Transformação (Transform):** Limpar, padronizar e estruturar os dados em um modelo dimensional (modelo estrela), criando tabelas de dimensão (dJogador, dPartida e dTime) e de fato (fEstatisticasJogador e fEventosPartida), com IDs inteligentes que garantem a integridade dos dados.
+- **Carregamento (Load):** Integrar os dados transformados em dashboards interativos no Power BI para análises de performance, scouting e inteligência tática.
 
 ---
 
@@ -15,7 +19,7 @@ O projeto visa construir uma **base estruturada de dados para análise de perfor
 
 - **Python** (Selenium, BeautifulSoup, Pandas)
 - **Power BI**
-- **CSV/TXT** para ingestão de dados
+- **CSV/TXT** para ingestão dos dados
 - **GitHub** para versionamento e documentação
 
 ---
@@ -24,62 +28,64 @@ O projeto visa construir uma **base estruturada de dados para análise de perfor
 
 ### 🧍‍♂️ Estatísticas de Jogadores (por partida)
 
-Extraídas de mais de **400 partidas**, totalizando **+17.000 linhas**:
-
-Name, Age, Position, Shots, SoT, KeyPasses, PassAccuracy, AerialsWon, Touches, Rating, TackleWon, Interception, Clearance, ShotBlocked, Fouls, PassCrossTotal, PassCrossAccurate, PassLongBallTotal, PassLongBallAccurate, PassThroughBallTotal, PassThroughBallAccurate, DribbleWon, FoulGiven, OffsideGiven, Dispossessed, Turnover, Time, Adversário, Data, Mandante
-
+Extraídas de mais de **400 partidas**, totalizando **+20.000 linhas** de informações, com os seguintes campos:  
+`Name, Age, Position, Shots, SoT, KeyPasses, PassAccuracy, AerialsWon, Touches, Rating, TackleWon, Interception, Clearance, ShotBlocked, Fouls, PassCrossTotal, PassCrossAccurate, PassLongBallTotal, PassLongBallAccurate, PassThroughBallTotal, PassThroughBallAccurate, DribbleWon, FoulGiven, OffsideGiven, Dispossessed, Turnover, Time, Adversário, Data, Mandante
 
 ---
 
-### 📅 Cronologia de Eventos por Partida (timeline WhoScored)
+### 📅 Cronologia de Eventos por Partida (Timeline WhoScored)
 
-Cada linha representa um evento como gol, assistência, cartão ou substituição:
-
-minuto, time, tipo, jogador, assist, placar_momento, descricao, Resultado, Data
-
+Cada registro representa um evento (gol, assistência, cartão ou substituição) com os campos:  
+`minuto, time, tipo, jogador, assist, placar_momento, descricao, Resultado, Data`
 
 ---
 
 ## 🧩 Estrutura e Modelagem (em andamento)
 
-Antes de visualizar os dados no Power BI, o foco agora está em **estruturar corretamente o modelo dimensional**:
-
 ### 📁 Tabelas Fato e Dimensão
 
-| Tipo        | Tabela                    | Objetivo                                 |
-|-------------|---------------------------|-------------------------------------------|
-| Dimensão    | `dJogador`                | Unificar nomes, idade, posição, time atual |
-| Dimensão    | `dPartida`                | Criar um `MatchID` único por jogo         |
-| Dimensão    | `dTime`                   | Criar um `TeamID` e metadados do clube    |
-| Fato        | `fEstatisticasJogador`    | Métricas quantitativas por jogo           |
-| Fato        | `fEventosPartida`         | Timeline de eventos em granularidade      |
+| Tipo        | Tabela                   | Objetivo                                                  |
+|-------------|--------------------------|-----------------------------------------------------------|
+| **Dimensão**    | `dJogador`               | Unificar dados dos jogadores (nome, idade, posição, time)    |
+| **Dimensão**    | `dPartida`               | Criar um `MatchID` único para cada partida                 |
+| **Dimensão**    | `dTime`                  | Normalizar os nomes dos times e registrar metadados         |
+| **Fato**        | `fEstatisticasJogador`   | Armazenar métricas quantitativas por jogo                  |
+| **Fato**        | `fEventosPartida`        | Registrar a timeline detalhada dos eventos por partida      |
+
+### 🧠 IDs Planejados
+
+- **PlayerID:** Combinação única de `nome`, `time` e `posição`.
+- **MatchID:** Criado a partir de um hash ou concatenação de `data`, `mandante`, `visitante` e `Resultado`.
+- **TeamID:** Tabela única para normalizar os nomes dos times e seus metadados.
 
 ---
 
-### 🧠 IDs inteligentes planejados
+## 🚀 Pipeline ETL – Visão Geral
 
-- `PlayerID`: combinação de `nome`, `time`, `data de nascimento`, `posição` (para lidar com transferências e variações de nome)
-- `MatchID`: hash ou concatenação de `data + mandante + visitante`
-- `TeamID`: tabela única para normalizar os nomes dos times
+1. **Extração (Extract):**  
+   - Dados coletados via scraping do site WhoScored utilizando Python, Selenium e BeautifulSoup.
+2. **Transformação (Transform):**  
+   - Os dados brutos são limpos e organizados em um modelo dimensional robusto, pronto para análises detalhadas.
+3. **Carregamento (Load):**  
+   - Dados transformados são carregados em dashboards interativos no Power BI para análise e visualização dos insights.
 
 ---
 
 ## 📌 Próximos Passos
 
-- [ ] Criar `dJogador`, `dTime`, `dPartida` com chaves limpas e únicas
-- [ ] Tratar e padronizar nomes de jogadores
-- [ ] Relacionar as tabelas Fato e Dimensão (modelo estrela)
-- [ ] Cruzar com dados de outras fontes (FBref, Transfermarkt, StatsBomb)
-- [ ] Montar dashboards em Power BI com análise tática e de performance
+- [ ] Criar as tabelas `dJogador`, `dTime` e `dPartida` com chaves únicas e padronizadas.
+- [ ] Padronizar e limpar os nomes dos jogadores.
+- [ ] Estabelecer as relações entre as tabelas Fato e Dimensão (modelo estrela).
+- [ ] Integrar com dados de outras fontes (FBref, Transfermarkt, StatsBomb) para enriquecer a base.
+- [ ] Refinar e expandir os dashboards no Power BI com análises táticas e de performance.
 
 ---
 
 ## 📎 Observações
 
-> Este é meu primeiro projeto público de futebol analytics.  
-> Estou estruturando um pipeline completo, desde o scraping até a modelagem analítica.  
-> A documentação do processo faz parte da minha migração para a área de dados esportivos.  
-> Feedbacks, colaborações e conexões são bem-vindas!
+> Este é meu primeiro projeto público de futebol analytics, que abrange desde a extração dos dados até a modelagem analítica completa.  
+> A implementação do pipeline ETL organiza os dados de forma eficiente e agrega valor aos insights de performance e scouting.  
+> Feedbacks, colaborações e conexões são bem-vindos para aprimorar esta iniciativa.
 
 ---
 
