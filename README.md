@@ -9,9 +9,11 @@
 Desenvolver um pipeline ETL completo para automatizar a **coleta, transformação e carregamento** de estatísticas detalhadas de partidas e jogadores da Série A do Campeonato Brasileiro (2024 e 2025), utilizando o site WhoScored como fonte principal.
 
 **Pipeline ETL:**
-- **Extração (Extract):** Coletar dados brutos de mais de **400 partidas** (17.000+ linhas) utilizando Python, Selenium e BeautifulSoup.
+- **Extração (Extract):** Coletar dados brutos de mais de **400 partidas** (20.000+ linhas) utilizando Python, Selenium e BeautifulSoup.
 - **Transformação (Transform):** Limpar, padronizar e estruturar os dados em um modelo dimensional (modelo estrela), criando tabelas de dimensão (dJogador, dPartida e dTime) e de fato (fEstatisticasJogador e fEventosPartida), com IDs inteligentes que garantem a integridade dos dados.
-- **Carregamento (Load):** Integrar os dados transformados em dashboards interativos no Power BI para análises de performance, scouting e inteligência tática.
+- **Carregamento (Load):** Integrar os dados transformados em dashboards interativos no Power BI para análises de performance, scouting e inteligência tática, permitindo otimizar os dados de futebol.
+
+Embora o projeto esteja focado no Brasileirão para estabelecer uma base robusta, a lógica aplicada é versátil e pode ser facilmente adaptada para a maioria dos campeonatos e jogos disponíveis no WhoScored.
 
 ---
 
@@ -29,9 +31,7 @@ Desenvolver um pipeline ETL completo para automatizar a **coleta, transformaçã
 ### 🧍‍♂️ Estatísticas de Jogadores (por partida)
 
 Extraídas de mais de **400 partidas**, totalizando **+20.000 linhas** de informações, com os seguintes campos:  
-`Name, Age, Position, Shots, SoT, KeyPasses, PassAccuracy, AerialsWon, Touches, Rating, TackleWon, Interception, Clearance, ShotBlocked, Fouls, PassCrossTotal, PassCrossAccurate, PassLongBallTotal, PassLongBallAccurate, PassThroughBallTotal, PassThroughBallAccurate, DribbleWon, FoulGiven, OffsideGiven, Dispossessed, Turnover, Time, Adversário, Data, Mandante
-
----
+`Name, Age, Position, Shots, SoT, KeyPasses, PassAccuracy, AerialsWon, Touches, Rating, TackleWon, Interception, Clearance, ShotBlocked, Fouls, PassCrossTotal, PassCrossAccurate, PassLongBallTotal, PassLongBallAccurate, PassThroughBallTotal, PassThroughBallAccurate, DribbleWon, FoulGiven, OffsideGiven, Dispossessed, Turnover, Time, Adversário, Data, Mandante`
 
 ### 📅 Cronologia de Eventos por Partida (Timeline WhoScored)
 
@@ -44,13 +44,13 @@ Cada registro representa um evento (gol, assistência, cartão ou substituição
 
 ### 📁 Tabelas Fato e Dimensão
 
-| Tipo        | Tabela                   | Objetivo                                                  |
-|-------------|--------------------------|-----------------------------------------------------------|
-| **Dimensão**    | `dJogador`               | Unificar dados dos jogadores (nome, idade, posição, time)    |
-| **Dimensão**    | `dPartida`               | Criar um `MatchID` único para cada partida                 |
-| **Dimensão**    | `dTime`                  | Normalizar os nomes dos times e registrar metadados         |
-| **Fato**        | `fEstatisticasJogador`   | Armazenar métricas quantitativas por jogo                  |
-| **Fato**        | `fEventosPartida`        | Registrar a timeline detalhada dos eventos por partida      |
+| Tipo           | Tabela                   | Objetivo                                                  |
+|----------------|--------------------------|-----------------------------------------------------------|
+| **Dimensão**   | `dJogador`               | Unificar dados dos jogadores (nome, idade, posição, time)   |
+| **Dimensão**   | `dPartida`               | Criar um `MatchID` único para cada partida                |
+| **Dimensão**   | `dTime`                  | Normalizar os nomes dos times e registrar metadados        |
+| **Fato**       | `fEstatisticasJogador`   | Armazenar métricas quantitativas por jogo                 |
+| **Fato**       | `fEventosPartida`        | Registrar a timeline detalhada dos eventos por partida     |
 
 ### 🧠 IDs Planejados
 
@@ -67,7 +67,7 @@ Cada registro representa um evento (gol, assistência, cartão ou substituição
 2. **Transformação (Transform):**  
    - Os dados brutos são limpos e organizados em um modelo dimensional robusto, pronto para análises detalhadas.
 3. **Carregamento (Load):**  
-   - Dados transformados são carregados em dashboards interativos no Power BI para análise e visualização dos insights.
+   - Dados transformados são integrados em dashboards interativos no Power BI para análise e visualização dos insights, permitindo aperfeiçoar a interpretação dos dados de futebol.
 
 ---
 
@@ -84,7 +84,9 @@ Cada registro representa um evento (gol, assistência, cartão ou substituição
 ## 📎 Observações
 
 > Este é meu primeiro projeto público de futebol analytics, que abrange desde a extração dos dados até a modelagem analítica completa.  
-> A implementação do pipeline ETL organiza os dados de forma eficiente e agrega valor aos insights de performance e scouting.  
+> A implementação do pipeline ETL organiza os dados de forma eficiente e agrega valor aos insights de performance e scouting.
+> Embora o foco atual seja o Brasileirão, a lógica do pipeline é adaptável a uma ampla gama de campeonatos e jogos disponíveis no WhoScored.
+> O projeto tem como meta, na fase de Carregamento, potencializar os dados para a criação de um BI completo e robusto.
 > Feedbacks, colaborações e conexões são bem-vindos para aprimorar esta iniciativa.
 
 ---
