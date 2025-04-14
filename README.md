@@ -17,8 +17,30 @@ Desenvolver um pipeline ETL completo para automatizar a **coleta, transformaçã
 
 ## 📦 Estrutura do Projeto
 
-scraper-whoscored-brasileirao/ │ ├── data/ │ ├── raw/ # Arquivos brutos extraídos com Selenium │ └── processed/ # Arquivos tratados prontos para Power BI │ ├── fEventosJogadores.csv │ ├── fEventosPartida.csv │ ├── dJogadores.csv │ └── dPartidas.csv │ ├── scripts/ │ ├── Extraction_urls.py # Extrai URLs de partidas por data │ ├── Extraction_players_events_whoscored.py # Extrai estatísticas dos jogadores (todas as abas) │ ├── Extraction_match_events_whoscored.py # Extrai eventos da timeline (gols, cartões, assistências) │ ├── fEventosJogadores.py # Processa estatísticas e cria fEventosJogadores │ ├── fEventosPartidas.py # Processa eventos e gera fEventosPartida │ ├── dJogador.py # Cria tabela dJogadores com posição e time │ └── dPartidas.py # Cria tabela por time em cada jogo (linha dupla por partida) │ ├── main.py # (em construção) Pipeline sequencial com try/except ├── requirements.txt # Dependências do projeto └── README.md
-
+```
+scraper-whoscored-brasileirao/
+│
+├── data/
+│   ├── raw/                      # Arquivos brutos extraídos com Selenium
+│   └── processed/                # Arquivos tratados prontos para Power BI
+│       ├── fEventosJogadores.csv
+│       ├── fEventosPartida.csv
+│       ├── dJogadores.csv
+│       └── dPartidas.csv
+│
+├── scripts/
+│   ├── Extraction_urls.py                      # Extrai URLs de partidas por data
+│   ├── Extraction_players_events_whoscored.py  # Extrai estatísticas dos jogadores (todas as abas)
+│   ├── Extraction_match_events_whoscored.py    # Extrai eventos da timeline (gols, cartões, assistências)
+│   ├── fEventosJogadores.py                    # Processa estatísticas e cria fEventosJogadores
+│   ├── fEventosPartidas.py                     # Processa eventos e gera fEventosPartida
+│   ├── dJogador.py                             # Cria tabela dJogadores com posição e time
+│   └── dPartidas.py                            # Cria tabela por time em cada jogo (linha dupla por partida)
+│
+├── main.py               # (em construção) Pipeline sequencial com try/except
+├── requirements.txt      # Dependências do projeto
+└── README.md
+```
 
 ---
 
@@ -39,14 +61,21 @@ scraper-whoscored-brasileirao/ │ ├── data/ │ ├── raw/ # Arquivos
 
 Extraídas de mais de **400 partidas**, totalizando **+20.000 linhas** com os seguintes campos:
 
-Name, Age, Position, Shots, SoT, KeyPasses, PassAccuracy, AerialsWon, Touches, Rating, TackleWon, Interception, Clearance, ShotBlocked, Fouls, PassCrossTotal, PassCrossAccurate, PassLongBallTotal, PassLongBallAccurate, PassThroughBallTotal, PassThroughBallAccurate, DribbleWon, FoulGiven, OffsideGiven, Dispossessed, Turnover, Time, Adversário, Data, Mandante
+```
+Name, Age, Position, Shots, SoT, KeyPasses, PassAccuracy, AerialsWon, Touches,
+Rating, TackleWon, Interception, Clearance, ShotBlocked, Fouls, PassCrossTotal,
+PassCrossAccurate, PassLongBallTotal, PassLongBallAccurate, PassThroughBallTotal,
+PassThroughBallAccurate, DribbleWon, FoulGiven, OffsideGiven, Dispossessed,
+Turnover, Time, Adversário, Data, Mandante
+```
 
 ### 📅 Eventos Cronológicos por Partida
 
 Cada linha representa um evento relevante (gol, assistência, cartão):
 
+```
 minuto, time, tipo, jogador, assist, placar_momento, descricao, Resultado, Data
-
+```
 
 ---
 
