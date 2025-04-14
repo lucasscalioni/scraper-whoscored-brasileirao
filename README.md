@@ -20,7 +20,7 @@ Desenvolver um pipeline ETL completo para automatizar a **coleta, transformaçã
 ```
 scraper-whoscored-brasileirao/
 │
-├── data/
+├── data/                         # Os exemplos do GitHub não estão com todos os dados, são exemplos de output
 │   ├── raw/                      # Arquivos brutos extraídos com Selenium
 │   └── processed/                # Arquivos tratados prontos para Power BI
 │       ├── fEventosJogadores.csv
@@ -122,6 +122,7 @@ minuto, time, tipo, jogador, assist, placar_momento, descricao, Resultado, Data
 - [ ] Adicionar métricas avançadas (xG, xA, passes decisivos, pressão, etc.)
 - [ ] Adicionar dados do FBref ou Transfermarkt no futuro
 - [ ] Criar visualizações públicas no Power BI
+- [ ] Extrair dados de outros campeonatos e outras temporadas do Brasileirão 
 
 ---
 
