@@ -1,0 +1,460 @@
+﻿Name,Age,Position,Shots,SoT,KeyPasses,PassAccuracy,AerialsWon,Touches,Rating,TackleWon,Interception,Clearance,ShotBlocked,Fouls,PassCrossTotal,PassCrossAccurate,PassLongBallTotal,PassLongBallAccurate,PassThroughBallTotal,PassThroughBallAccurate,DribbleWon,FoulGiven,OffsideGiven,Dispossessed,Turnover,Time,Adversário,Data,Mandante
+Matheus Donelli,24,GK,0	,0	,0	,65.2	,0	,37	,7.51,0	,0	,1	,0	,0	,0	,0	,11	,4	,0	,0	,0	,1	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Matheus França,26,DR,0	,0	,0	,82.6	,0	,63	,6.70,1	,1	,0	,0	,1	,1	,0	,1	,1	,0	,0	,1	,1	,0	,1	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+André Ramalho,35,DC,1	,0	,1	,95.3	,1	,75	,7.27,2	,0	,6	,0	,0	,0	,0	,6	,4	,0	,0	,0	,1	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Félix Torres,30,DC,1	,0	,0	,90.2	,0	,60	,7.02,1	,1	,5	,0	,0	,0	,0	,6	,4	,0	,0	,0	,0	,0	,0	,1	,Corinthians,Vasco da Gama,05-Apr-25,True
+Matheus Bidu,27,DL,0	,0	,1	,94.4	,0	,58	,6.89,2	,1	,1	,0	,2	,1	,1	,1	,1	,0	,0	,0	,0	,0	,0	,4	,Corinthians,Vasco da Gama,05-Apr-25,True
+Raniele,30,MC,0	,0	,0	,88.9	,1	,33	,6.63,1	,0	,1	,1	,2	,0	,0	,1	,1	,0	,0	,0	,1	,0	,1	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Breno Bidon,22,MC,0	,0	,0	,93	,1	,72	,7.26,2	,1	,1	,0	,3	,0	,0	,4	,4	,0	,0	,1	,4	,0	,0	,1	,Corinthians,Vasco da Gama,05-Apr-25,True
+André Carrillo,35,MC,0	,0	,0	,94.7	,0	,44	,6.77,0	,3	,0	,0	,3	,1	,1	,4	,3	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Igor Coronado,34,AMC,1	,0	,0	,87.5	,0	,66	,6.43,2	,0	,0	,0	,0	,3	,0	,2	,1	,0	,0	,0	,1	,0	,3	,2	,Corinthians,Vasco da Gama,05-Apr-25,True
+Yuri Alberto,26,FW,1	,1	,1	,83.3	,0	,21	,7.83,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,1	,1	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Memphis Depay,33,FW,2	,2	,2	,83.3	,0	,41	,8.01,0	,0	,0	,0	,1	,1	,0	,1	,1	,1	,0	,0	,3	,0	,1	,6	,Corinthians,Vasco da Gama,05-Apr-25,True
+Maycon,29,Sub,0	,0	,0	,94.1	,0	,17	,6.17,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Ángel Romero,34,Sub,0	,0	,1	,50	,0	,8	,6.26,0	,0	,0	,0	,1	,2	,1	,0	,0	,0	,0	,0	,0	,0	,1	,1	,Corinthians,Vasco da Gama,05-Apr-25,True
+Héctor Hernández,31,Sub,0	,0	,0	,75	,0	,4	,6.14,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+José Martínez,32,Sub,0	,0	,0	,90	,0	,28	,5.97,0	,0	,1	,0	,4	,1	,0	,1	,1	,0	,0	,0	,2	,0	,0	,2	,Corinthians,Vasco da Gama,05-Apr-25,True
+Alex Santana,31,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Charles,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Cacá,27,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Talles Magno,24,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Hugo,29,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Léo Mana,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Felipe Longo,22,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+João Pedro,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Corinthians,Vasco da Gama,05-Apr-25,True
+Léo Jardim,32,GK,0	,0	,0	,82.4	,0	,20	,5.45,0	,0	,1	,0	,0	,0	,0	,5	,2	,0	,0	,0	,0	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+José Rodríguez,30,DR,1	,0	,1	,80	,3	,67	,6.32,2	,0	,2	,0	,1	,6	,1	,7	,1	,0	,0	,0	,1	,0	,0	,1	,Vasco da Gama,Corinthians,05-Apr-25,False
+Lucas Freitas,26,DC,0	,0	,0	,94.1	,1	,43	,6.08,1	,1	,3	,1	,0	,0	,0	,4	,3	,0	,0	,0	,0	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+João Victor,28,DC,2	,1	,0	,81	,1	,56	,5.57,2	,1	,2	,0	,1	,0	,0	,5	,1	,0	,0	,0	,1	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Lucas Piton,26,DL,1	,0	,0	,86.3	,1	,69	,6.25,2	,0	,1	,0	,1	,3	,0	,4	,1	,0	,0	,2	,2	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Jair,32,DMC,0	,0	,1	,96.8	,0	,39	,6.45,3	,1	,0	,0	,3	,0	,0	,1	,1	,0	,0	,1	,3	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Mateus Carvalho,25,DMC,0	,0	,0	,93.8	,0	,58	,6.59,3	,4	,0	,0	,3	,0	,0	,1	,0	,0	,0	,1	,0	,0	,1	,1	,Vasco da Gama,Corinthians,05-Apr-25,False
+Tchê Tchê,34,AMR,1	,0	,0	,100	,0	,21	,6.10,1	,2	,0	,0	,0	,0	,0	,2	,2	,0	,0	,0	,1	,0	,1	,1	,Vasco da Gama,Corinthians,05-Apr-25,False
+Dimitri Payet,40,AMC,1	,0	,3	,87.9	,0	,78	,6.98,3	,1	,0	,0	,1	,9	,3	,3	,3	,0	,0	,0	,5	,0	,1	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Loide Augusto,27,AML,1	,0	,2	,87	,1	,36	,6.18,1	,0	,0	,0	,2	,1	,0	,1	,1	,0	,0	,0	,1	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Rayan,20,FW,0	,0	,0	,81.8	,0	,16	,5.86,1	,0	,0	,0	,1	,0	,0	,1	,1	,0	,0	,0	,0	,0	,1	,1	,Vasco da Gama,Corinthians,05-Apr-25,False
+Pablo Vegetti,38,Sub,2	,1	,0	,50	,1	,8	,6.09,0	,0	,0	,0	,2	,0	,0	,1	,0	,0	,0	,0	,0	,1	,1	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Adson,26,Sub,0	,0	,0	,100	,0	,10	,5.94,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Hugo Moura,29,Sub,0	,0	,0	,88.2	,0	,22	,6.23,2	,1	,0	,0	,1	,0	,0	,1	,1	,0	,0	,0	,1	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Alex Teixeira,37,Sub,1	,1	,0	,100	,0	,4	,6.24,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Nuno Moreira,27,Sub,0	,0	,1	,70	,1	,15	,6.23,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,1	,2	,0	,0	,2	,Vasco da Gama,Corinthians,05-Apr-25,False
+Juan Sforza,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Paulo Henrique,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Daniel Fuzato,29,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Philippe Coutinho,34,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Victor Luís,33,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Mauricio Lemos,31,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Paulinho Paula,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vasco da Gama,Corinthians,05-Apr-25,False
+Bruno Ferreira,33,GK,0	,0	,0	,41.7	,0	,34	,7.38,0	,0	,2	,0	,1	,0	,0	,20	,6	,0	,0	,0	,0	,0	,0	,1	,Ceara,Gremio,05-Apr-25,True
+Fabiano,27,DR,0	,0	,0	,85.7	,0	,47	,7.34,5	,0	,3	,0	,2	,2	,0	,3	,1	,0	,0	,0	,4	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Willian Machado,30,DC,0	,0	,0	,69.2	,3	,33	,7.09,0	,1	,5	,1	,0	,0	,0	,10	,5	,0	,0	,0	,0	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Marllon,34,DC,0	,0	,0	,70.6	,0	,28	,6.37,0	,0	,6	,1	,0	,0	,0	,8	,4	,0	,0	,0	,0	,0	,0	,1	,Ceara,Gremio,05-Apr-25,True
+Matheus Bahia,27,DL,1	,1	,2	,85.7	,0	,48	,7.76,3	,1	,6	,0	,1	,4	,3	,4	,3	,0	,0	,1	,0	,0	,1	,0	,Ceara,Gremio,05-Apr-25,True
+Fernando Sobral,32,DMC,0	,0	,1	,80	,0	,35	,6.40,0	,0	,0	,0	,2	,4	,1	,4	,2	,0	,0	,0	,3	,0	,1	,0	,Ceara,Gremio,05-Apr-25,True
+Dieguinho,32,DMC,0	,0	,0	,79.2	,2	,36	,7.06,2	,2	,2	,0	,0	,0	,0	,4	,2	,0	,0	,0	,1	,0	,0	,2	,Ceara,Gremio,05-Apr-25,True
+Antonio Galeano,27,AMR,1	,1	,1	,81.8	,0	,20	,6.62,0	,0	,0	,0	,0	,3	,1	,1	,1	,0	,0	,0	,2	,1	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Lucas Mugni,35,AMC,1	,0	,0	,80	,1	,35	,6.59,2	,0	,0	,0	,0	,4	,0	,4	,3	,0	,0	,2	,0	,0	,2	,1	,Ceara,Gremio,05-Apr-25,True
+Fernandinho,29,AML,1	,1	,0	,71.4	,0	,30	,6.94,2	,0	,0	,1	,1	,1	,0	,3	,1	,0	,0	,2	,2	,0	,2	,1	,Ceara,Gremio,05-Apr-25,True
+Pedro Raúl,30,FW,4	,1	,2	,85.7	,3	,39	,7.07,0	,0	,2	,0	,1	,1	,0	,0	,0	,0	,0	,0	,3	,2	,4	,5	,Ceara,Gremio,05-Apr-25,True
+Alejandro Martínez,29,Sub,1	,1	,1	,57.1	,0	,20	,6.89,1	,1	,1	,0	,1	,1	,0	,3	,1	,0	,0	,0	,0	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Aylon,35,Sub,0	,0	,0	,0	,0	,3	,6.15,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Nicolas,30,Sub,0	,0	,0	,0	,0	,0	,6.13,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Matheus Araújo,24,Sub,1	,1	,0	,75	,0	,13	,6.99,2	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,3	,Ceara,Gremio,05-Apr-25,True
+Lourenço,29,Sub,2	,0	,0	,90	,0	,23	,6.76,4	,2	,0	,1	,0	,1	,0	,1	,0	,0	,0	,0	,0	,0	,1	,0	,Ceara,Gremio,05-Apr-25,True
+Lucas Lima,26,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Marcos Victor,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Fernando Miguel,42,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Éder,32,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Rafael Ramos,32,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Guilherme Luiz,21,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Rômulo,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Ceara,Gremio,05-Apr-25,True
+Tiago Volpi,36,GK,0	,0	,0	,53.3	,1	,24	,6.05,0	,0	,0	,0	,0	,0	,0	,11	,4	,0	,0	,0	,0	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+Igor,22,DR,1	,0	,0	,65.5	,3	,48	,6.30,1	,2	,2	,0	,1	,1	,0	,4	,1	,0	,0	,0	,2	,0	,1	,1	,Gremio,Ceara,05-Apr-25,False
+Wagner Leonardo,27,DC,0	,0	,0	,92.5	,6	,69	,7.31,0	,4	,10	,1	,1	,0	,0	,5	,5	,0	,0	,0	,0	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+Jemerson,34,DC,0	,0	,0	,88.2	,3	,44	,6.48,5	,0	,3	,0	,4	,0	,0	,2	,1	,0	,0	,0	,0	,0	,1	,1	,Gremio,Ceara,05-Apr-25,False
+Lucas Esteves,26,DL,0	,0	,1	,84.9	,3	,49	,5.94,2	,0	,3	,0	,4	,3	,1	,3	,0	,0	,0	,0	,0	,0	,0	,1	,Gremio,Ceara,05-Apr-25,False
+Mathías Villasanti,30,DMC,1	,0	,1	,83.3	,1	,80	,7.06,6	,1	,1	,0	,1	,0	,0	,7	,2	,0	,0	,1	,0	,0	,1	,1	,Gremio,Ceara,05-Apr-25,False
+Camilo,28,DMC,1	,0	,0	,71.4	,1	,20	,6.21,0	,1	,1	,0	,0	,0	,0	,2	,0	,0	,0	,1	,0	,0	,0	,1	,Gremio,Ceara,05-Apr-25,False
+Cristian Pavón,31,AMR,0	,0	,2	,69.6	,1	,33	,6.46,2	,0	,1	,0	,1	,3	,0	,3	,0	,0	,0	,1	,0	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+Edenílson,37,AMC,1	,0	,0	,88.9	,0	,45	,6.09,0	,1	,0	,0	,1	,5	,0	,1	,1	,0	,0	,1	,1	,0	,3	,0	,Gremio,Ceara,05-Apr-25,False
+Francis Amuzu,27,AML,1	,0	,2	,75.9	,0	,50	,6.73,1	,0	,0	,0	,1	,4	,1	,2	,1	,1	,0	,3	,3	,1	,2	,1	,Gremio,Ceara,05-Apr-25,False
+Matías Arezo,24,FW,4	,2	,3	,54.6	,1	,23	,6.40,0	,0	,0	,0	,1	,1	,1	,0	,0	,0	,0	,1	,0	,2	,0	,2	,Gremio,Ceara,05-Apr-25,False
+Franco Cristaldo,30,Sub,1	,0	,1	,90	,0	,42	,6.25,0	,0	,0	,0	,0	,6	,1	,3	,3	,0	,0	,0	,0	,0	,2	,1	,Gremio,Ceara,05-Apr-25,False
+João Pedro,30,Sub,0	,0	,0	,82.6	,1	,31	,6.27,0	,0	,0	,0	,2	,1	,0	,0	,0	,0	,0	,2	,0	,0	,0	,1	,Gremio,Ceara,05-Apr-25,False
+Alexander Aravena,24,Sub,0	,0	,1	,90	,0	,15	,6.17,0	,0	,0	,0	,0	,1	,1	,0	,0	,0	,0	,0	,1	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+Miguel Monsalve,23,Sub,0	,0	,0	,100	,0	,10	,6.09,1	,0	,0	,0	,1	,2	,0	,0	,0	,0	,0	,1	,0	,0	,0	,2	,Gremio,Ceara,05-Apr-25,False
+André Henrique,25,Sub,2	,1	,0	,100	,1	,7	,5.99,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+Dodi,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+Rodrigo Ely,33,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+Nathan,31,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+Gustavo Martins,24,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+Gabriel Grando,27,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+Ronald,24,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+Viery,22,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Gremio,Ceara,05-Apr-25,False
+John,31,GK,0	,0	,0	,77.5	,0	,48	,7.11,0	,0	,0	,0	,0	,0	,0	,14	,6	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Vitinho,27,DR,0	,0	,1	,88.9	,1	,32	,6.61,0	,0	,2	,0	,0	,5	,1	,1	,1	,0	,0	,0	,0	,0	,2	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Alexander Barboza,32,DC,0	,0	,0	,84.9	,0	,77	,6.87,1	,0	,7	,0	,1	,0	,0	,10	,5	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Jair,22,DC,1	,0	,0	,84.4	,3	,87	,7.40,1	,2	,4	,1	,0	,0	,0	,10	,8	,0	,0	,0	,1	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Cuiabano,24,DL,0	,0	,2	,87.1	,1	,49	,7.75,1	,1	,1	,0	,1	,4	,2	,2	,1	,0	,0	,1	,1	,0	,0	,2	,Botafogo RJ,Juventude,06-Apr-25,True
+Gregore,33,DMC,0	,0	,0	,88.9	,1	,67	,6.44,1	,0	,1	,0	,1	,0	,0	,2	,0	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Artur,29,MR,3	,0	,3	,88	,0	,47	,7.46,0	,2	,0	,0	,2	,1	,0	,3	,2	,0	,0	,1	,3	,0	,3	,3	,Botafogo RJ,Juventude,06-Apr-25,True
+Marlon Freitas,32,MC,0	,0	,2	,84.2	,0	,82	,6.90,0	,1	,1	,1	,0	,0	,0	,13	,10	,0	,0	,0	,0	,0	,0	,1	,Botafogo RJ,Juventude,06-Apr-25,True
+Patrick de Paula,27,MC,0	,0	,1	,91.3	,0	,26	,6.40,0	,0	,0	,0	,1	,0	,0	,2	,1	,0	,0	,0	,1	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Jefferson Savarino,30,ML,2	,0	,2	,90.2	,0	,52	,6.74,0	,1	,1	,0	,1	,2	,1	,6	,5	,0	,0	,0	,0	,0	,0	,3	,Botafogo RJ,Juventude,06-Apr-25,True
+Igor Jesus,26,FW,4	,2	,1	,75	,8	,29	,8.46,1	,0	,2	,1	,3	,0	,0	,1	,1	,0	,0	,0	,0	,0	,2	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Alex Telles,34,Sub,1	,1	,1	,100	,0	,14	,6.30,0	,0	,0	,0	,2	,4	,1	,0	,0	,0	,0	,0	,1	,0	,1	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Mateo Ponte,23,Sub,1	,1	,0	,81.3	,0	,20	,7.14,0	,1	,0	,0	,1	,1	,1	,1	,1	,0	,0	,0	,0	,1	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Santiago Rodríguez,27,Sub,3	,2	,0	,95	,1	,29	,6.79,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,1	,1	,Botafogo RJ,Juventude,06-Apr-25,True
+Gonzalo Mastriani,33,Sub,1	,0	,0	,0	,0	,1	,5.97,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Newton,27,Sub,0	,0	,0	,85.7	,0	,10	,6.08,0	,1	,0	,0	,1	,1	,0	,1	,1	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Allan,36,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Matheus Martins,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Léo Linck,26,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Elias Manoel,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+David Ricardo,24,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Kauan Lindes,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Jeffinho,27,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Botafogo RJ,Juventude,06-Apr-25,True
+Marcão,35,GK,0	,0	,0	,57.9	,0	,33	,6.55,0	,0	,0	,0	,0	,0	,0	,12	,4	,0	,0	,0	,0	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Ewerthon,26,DR,2	,1	,1	,80	,1	,58	,6.29,0	,2	,1	,0	,0	,4	,0	,9	,7	,0	,0	,0	,1	,0	,0	,1	,Juventude,Botafogo RJ,06-Apr-25,False
+Abner,22,DC,0	,0	,0	,86.7	,4	,55	,6.60,1	,1	,6	,1	,0	,0	,0	,7	,4	,0	,0	,0	,0	,1	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Adriano Martins,30,DC,0	,0	,0	,89.5	,3	,47	,6.40,3	,2	,2	,0	,1	,0	,0	,4	,3	,0	,0	,0	,0	,0	,1	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Alan Ruschel,37,DL,0	,0	,2	,96.2	,0	,80	,6.75,3	,3	,1	,0	,0	,6	,2	,4	,3	,0	,0	,0	,1	,1	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Emerson Batalla,25,MR,4	,1	,0	,94.4	,0	,32	,6.01,0	,0	,0	,0	,2	,2	,0	,0	,0	,0	,0	,2	,0	,0	,0	,3	,Juventude,Botafogo RJ,06-Apr-25,False
+Jádson,33,MC,0	,0	,1	,59.3	,0	,47	,6.79,2	,3	,4	,2	,0	,2	,0	,10	,4	,0	,0	,0	,1	,0	,1	,1	,Juventude,Botafogo RJ,06-Apr-25,False
+Daniel Giraldo,34,MC,0	,0	,0	,86.5	,1	,43	,5.90,1	,0	,0	,0	,2	,0	,0	,4	,2	,0	,0	,0	,1	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Petterson,23,ML,3	,0	,0	,84.4	,0	,46	,6.23,0	,1	,0	,0	,0	,0	,0	,3	,2	,0	,0	,1	,0	,0	,1	,1	,Juventude,Botafogo RJ,06-Apr-25,False
+Gabriel Taliari,29,FW,3	,1	,1	,100	,1	,15	,6.78,1	,0	,1	,0	,0	,0	,0	,1	,1	,1	,1	,0	,1	,1	,1	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Mandaca,25,FW,0	,0	,5	,88.9	,1	,48	,7.15,1	,1	,0	,0	,1	,0	,0	,1	,1	,0	,0	,3	,2	,1	,0	,1	,Juventude,Botafogo RJ,06-Apr-25,False
+Nenê,45,Sub,2	,0	,0	,46.7	,0	,25	,6.35,0	,0	,0	,0	,0	,2	,0	,1	,1	,0	,0	,2	,2	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Giovanny,29,Sub,0	,0	,0	,88.9	,0	,11	,6.10,0	,0	,1	,0	,0	,0	,0	,1	,0	,0	,0	,0	,1	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Matheus Babi,29,Sub,0	,0	,1	,100	,1	,10	,6.27,0	,0	,2	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Maurício Garcez,30,Sub,0	,0	,0	,60	,0	,13	,6.27,0	,0	,1	,0	,1	,0	,0	,0	,0	,0	,0	,2	,2	,0	,0	,2	,Juventude,Botafogo RJ,06-Apr-25,False
+Émerson Galego,27,Sub,0	,0	,0	,50	,0	,2	,6.00,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Reginaldo Lopes,34,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Felipinho,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Marcos Paulo,24,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Wilker Ángel,34,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Jean Carlos,35,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Davi Góes,21,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Ruan Carneiro,37,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Juventude,Botafogo RJ,06-Apr-25,False
+Everson,36,GK,0	,0	,0	,96	,0	,33	,7.26,0	,0	,1	,0	,0	,0	,0	,4	,3	,0	,0	,0	,0	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Natanael,25,DR,0	,0	,0	,87.5	,0	,18	,6.37,0	,0	,0	,0	,1	,2	,0	,0	,0	,0	,0	,1	,1	,0	,0	,1	,Atletico MG,Sao Paulo,06-Apr-25,True
+Lyanco,30,DC,2	,1	,1	,88.1	,3	,73	,5.88,1	,3	,2	,1	,2	,0	,0	,7	,2	,0	,0	,0	,1	,0	,0	,4	,Atletico MG,Sao Paulo,06-Apr-25,True
+Júnior Alonso,34,DC,1	,0	,0	,85.1	,4	,80	,7.17,0	,3	,5	,0	,1	,0	,0	,6	,3	,0	,0	,0	,1	,0	,1	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Guilherme Arana,29,DL,1	,0	,3	,92.9	,0	,76	,7.36,3	,1	,1	,0	,1	,7	,4	,5	,2	,0	,0	,0	,0	,0	,0	,1	,Atletico MG,Sao Paulo,06-Apr-25,True
+Gabriel Menino,26,MC,0	,0	,2	,91.7	,0	,40	,6.33,0	,0	,0	,0	,0	,0	,0	,3	,2	,0	,0	,0	,1	,0	,0	,3	,Atletico MG,Sao Paulo,06-Apr-25,True
+Gustavo Scarpa,33,MC,4	,1	,3	,83.3	,1	,81	,7.28,0	,1	,2	,0	,0	,19	,4	,11	,8	,0	,0	,0	,2	,0	,1	,1	,Atletico MG,Sao Paulo,06-Apr-25,True
+Alan Franco,28,MC,1	,0	,0	,97.9	,0	,53	,6.45,1	,0	,1	,0	,1	,0	,0	,2	,2	,0	,0	,0	,0	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Rony,31,FWR,6	,1	,0	,100	,0	,24	,6.64,2	,1	,1	,0	,5	,2	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Hulk,40,FW,5	,2	,2	,57.1	,1	,34	,6.85,0	,0	,0	,0	,2	,2	,0	,0	,0	,0	,0	,3	,2	,0	,2	,4	,Atletico MG,Sao Paulo,06-Apr-25,True
+Tomás Cuello,27,FWL,1	,0	,2	,88.9	,0	,28	,6.42,0	,0	,0	,0	,1	,2	,1	,0	,0	,0	,0	,1	,0	,0	,1	,2	,Atletico MG,Sao Paulo,06-Apr-25,True
+Renzo Saravia,33,Sub,2	,0	,0	,100	,0	,27	,6.06,0	,0	,0	,0	,2	,2	,0	,0	,0	,0	,0	,0	,2	,0	,0	,1	,Atletico MG,Sao Paulo,06-Apr-25,True
+Júnior Santos,32,Sub,1	,1	,0	,100	,1	,10	,6.24,0	,0	,0	,0	,0	,0	,0	,1	,1	,0	,0	,0	,1	,0	,2	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Rubens,25,Sub,1	,0	,1	,95.8	,0	,34	,6.64,3	,0	,3	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Igor Gomes,28,Sub,0	,0	,0	,83.3	,0	,9	,6.02,0	,0	,0	,0	,0	,2	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Bernard,34,Sub,0	,0	,2	,90.9	,0	,31	,6.24,1	,0	,0	,0	,0	,1	,0	,3	,2	,0	,0	,0	,0	,0	,1	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Fausto Vera,27,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Caio Paulista,28,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Vitor Hugo,35,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Rômulo,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Gabriel Delfim,24,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Patrick,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+João Marcelo,21,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Atletico MG,Sao Paulo,06-Apr-25,True
+Rafael,37,GK,0	,0	,0	,54.2	,2	,35	,7.89,0	,0	,1	,0	,0	,0	,0	,12	,1	,0	,0	,0	,2	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Nahuel Ferraresi,28,DR,0	,0	,0	,82.6	,3	,73	,7.63,5	,3	,5	,0	,0	,1	,0	,5	,2	,0	,0	,0	,2	,0	,0	,1	,Sao Paulo,Atletico MG,06-Apr-25,False
+Alan Franco,30,DC,0	,0	,0	,82.8	,2	,42	,6.71,0	,0	,6	,1	,2	,0	,0	,5	,1	,0	,0	,0	,2	,1	,1	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Robert Arboleda,35,DC,0	,0	,0	,71.4	,4	,62	,7.77,1	,1	,12	,5	,0	,0	,0	,10	,2	,0	,0	,0	,1	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Wendell,33,DL,0	,0	,0	,93.1	,0	,50	,6.79,0	,1	,3	,0	,1	,2	,1	,1	,1	,0	,0	,1	,2	,0	,0	,2	,Sao Paulo,Atletico MG,06-Apr-25,False
+Marcos Antônio,26,DMC,1	,1	,0	,84.4	,0	,50	,7.38,4	,3	,3	,1	,1	,0	,0	,2	,0	,0	,0	,0	,2	,0	,1	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Alisson,33,DMC,1	,1	,1	,95	,0	,45	,6.98,0	,0	,1	,1	,1	,0	,0	,3	,2	,0	,0	,1	,0	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Cédric Soares,35,AMR,0	,0	,2	,75	,0	,50	,7.08,1	,0	,1	,1	,0	,6	,4	,1	,0	,0	,0	,2	,1	,0	,3	,2	,Sao Paulo,Atletico MG,06-Apr-25,False
+Luciano,33,AMC,1	,1	,1	,88.2	,0	,23	,6.38,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,2	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Ferreira,29,AML,0	,0	,2	,81.8	,1	,37	,6.86,0	,1	,2	,1	,3	,1	,0	,0	,0	,0	,0	,2	,2	,0	,0	,3	,Sao Paulo,Atletico MG,06-Apr-25,False
+André Silva,29,FW,2	,0	,0	,66.7	,2	,18	,6.05,0	,1	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,Sao Paulo,Atletico MG,06-Apr-25,False
+Jonathan Calleri,33,Sub,0	,0	,0	,0	,0	,0	,5.00,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Ruan Tressoldi,27,Sub,0	,0	,0	,0	,0	,1	,6.03,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Matheus Alves,22,Sub,0	,0	,0	,75	,0	,12	,6.24,3	,0	,0	,0	,2	,0	,0	,0	,0	,0	,0	,0	,0	,0	,2	,1	,Sao Paulo,Atletico MG,06-Apr-25,False
+Lucas Ferreira,20,Sub,1	,1	,0	,66.7	,1	,6	,6.12,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,Sao Paulo,Atletico MG,06-Apr-25,False
+Enzo Díaz,31,Sub,0	,0	,0	,40	,0	,14	,6.57,3	,0	,1	,2	,0	,1	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Jandrei,34,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Igor Vinícius,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Felipe Negrucci,22,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Leandro Mathias,22,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Ryan Francisco,20,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Damián Bobadilla,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Sabino,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sao Paulo,Atletico MG,06-Apr-25,False
+Fábio,46,GK,0	,0	,0	,87	,0	,36	,6.85,0	,0	,2	,0	,0	,0	,0	,8	,5	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Guga,28,DR,0	,0	,0	,64	,0	,46	,7.16,4	,2	,2	,0	,0	,0	,0	,3	,0	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Juan Pablo Freytes,27,DC,2	,1	,0	,86.2	,2	,70	,6.81,0	,1	,7	,1	,0	,0	,0	,11	,4	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Thiago Silva,42,DC,3	,1	,0	,93	,3	,68	,6.84,0	,0	,5	,2	,0	,0	,0	,5	,4	,0	,0	,0	,0	,0	,0	,1	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Renê,34,DL,0	,0	,1	,78.8	,1	,56	,6.80,1	,3	,5	,1	,2	,3	,1	,4	,1	,0	,0	,0	,0	,0	,0	,1	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Martinelli,25,DMC,1	,1	,0	,93.9	,0	,49	,7.81,2	,2	,2	,1	,0	,0	,0	,1	,1	,0	,0	,1	,2	,1	,3	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Hércules,26,DMC,1	,1	,0	,77.5	,3	,54	,6.83,4	,1	,0	,1	,3	,1	,0	,4	,1	,0	,0	,1	,0	,0	,1	,1	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Jhon Arias,29,AMR,1	,0	,5	,84.9	,0	,72	,8.01,2	,0	,0	,0	,1	,9	,5	,1	,1	,0	,0	,6	,3	,0	,9	,1	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Lima,30,AMC,2	,1	,1	,89.5	,0	,28	,7.40,1	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,1	,1	,0	,1	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Agustín Canobbio,28,AML,3	,0	,1	,100	,0	,35	,6.90,1	,2	,1	,0	,3	,2	,0	,1	,1	,0	,0	,0	,2	,0	,3	,1	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Germán Cano,39,FW,0	,0	,1	,71.4	,0	,20	,6.35,0	,0	,1	,0	,1	,0	,0	,2	,2	,0	,0	,0	,0	,0	,2	,1	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Ganso,37,Sub,1	,0	,0	,83.3	,0	,10	,5.97,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,1	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Everaldo,35,Sub,0	,0	,0	,60	,1	,12	,5.93,0	,0	,0	,0	,3	,0	,0	,0	,0	,0	,0	,0	,0	,0	,2	,1	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Samuel Xavier,36,Sub,0	,0	,1	,100	,0	,31	,6.60,2	,1	,2	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Keno,37,Sub,1	,0	,1	,57.1	,1	,17	,6.70,1	,0	,1	,0	,1	,0	,0	,1	,1	,0	,0	,2	,3	,0	,0	,1	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Facundo Bernal,23,Sub,0	,0	,0	,66.7	,1	,6	,6.19,0	,0	,0	,0	,0	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Manoel,37,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Thiago Santos,37,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Vitor Eudes,28,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Nonato,29,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Ignácio,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Kevin Serna,29,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Rubén Lezcano,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fluminense,Red Bull Bragantino,06-Apr-25,True
+Cleiton,29,GK,0	,0	,0	,88	,0	,27	,6.10,0	,0	,0	,0	,0	,0	,0	,8	,6	,0	,0	,0	,0	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Andrés Hurtado,25,DR,0	,0	,0	,85.7	,2	,64	,6.88,2	,1	,2	,0	,3	,2	,0	,3	,1	,0	,0	,2	,2	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Pedro Henrique,31,DC,0	,0	,0	,94.3	,2	,67	,6.73,3	,1	,4	,1	,1	,0	,0	,7	,5	,0	,0	,0	,1	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Guzmán Rodríguez,27,DC,0	,0	,0	,80	,0	,75	,6.91,3	,1	,4	,2	,0	,1	,0	,9	,2	,0	,0	,0	,0	,0	,0	,1	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Juninho Capixaba,29,DL,1	,0	,1	,81.5	,3	,97	,6.77,5	,2	,0	,1	,1	,2	,0	,2	,1	,0	,0	,0	,3	,1	,3	,3	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Gabriel,34,DMC,0	,0	,1	,98.3	,0	,72	,7.07,8	,0	,0	,0	,4	,0	,0	,4	,3	,0	,0	,0	,1	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Matheus Fernandes,28,DMC,1	,0	,0	,73.3	,0	,41	,6.28,0	,2	,1	,0	,1	,0	,0	,2	,1	,1	,0	,1	,1	,0	,0	,1	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Ignacio Laquintana,28,AMR,1	,0	,0	,86.7	,1	,22	,5.89,0	,0	,0	,0	,0	,2	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Jhon Jhon,24,AMC,1	,1	,3	,87.5	,0	,50	,6.89,2	,0	,1	,0	,0	,5	,1	,3	,2	,2	,1	,1	,3	,0	,0	,3	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Vinicinho,23,AML,1	,1	,1	,87.5	,2	,41	,6.44,1	,3	,0	,0	,0	,0	,0	,2	,1	,0	,0	,0	,0	,1	,0	,3	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Eduardo Sasha,35,FW,2	,0	,0	,84.2	,2	,28	,6.29,1	,1	,0	,0	,1	,0	,0	,1	,0	,0	,0	,0	,0	,0	,1	,2	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Lucas Barbosa,26,Sub,4	,1	,0	,84.6	,2	,24	,6.36,0	,1	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,1	,0	,1	,1	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Isidro Pitta,27,Sub,2	,2	,1	,83.3	,0	,8	,7.21,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Henry Mosquera,25,Sub,2	,0	,2	,75	,0	,34	,6.88,3	,0	,0	,0	,0	,4	,1	,0	,0	,0	,0	,2	,2	,0	,0	,1	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Fabinho,24,Sub,2	,0	,1	,72.7	,1	,16	,6.20,0	,1	,0	,0	,0	,0	,0	,2	,1	,0	,0	,0	,1	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Eric Ramires,26,Sub,0	,0	,1	,88.9	,1	,23	,6.61,2	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,1	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Guilherme,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Eduardo Santos,29,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Gustavinho,22,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Thiago Borbas,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Athyrson,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Douglas Mendes,22,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Lucão,26,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Red Bull Bragantino,Fluminense,06-Apr-25,False
+Anthoni,25,GK,0	,0	,0	,100	,0	,17	,6.86,0	,0	,1	,0	,0	,0	,0	,2	,2	,0	,0	,0	,0	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Braian Aguirre,26,DR,0	,0	,1	,86.7	,0	,94	,7.76,6	,2	,2	,1	,2	,2	,1	,7	,4	,0	,0	,1	,0	,0	,0	,2	,Internacional,Cruzeiro,06-Apr-25,True
+Vitão,27,DC,0	,0	,0	,100	,0	,81	,7.08,1	,2	,1	,0	,0	,0	,0	,4	,4	,0	,0	,0	,0	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Agustín Rogel,29,DC,0	,0	,0	,93	,2	,68	,7.29,3	,0	,7	,0	,1	,0	,0	,3	,1	,0	,0	,0	,0	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Alexandro Bernabéi,26,DL,2	,2	,3	,85	,1	,113	,8.19,1	,2	,2	,0	,4	,3	,0	,1	,1	,0	,0	,2	,2	,0	,0	,2	,Internacional,Cruzeiro,06-Apr-25,True
+Fernando,39,DMC,1	,1	,0	,92.2	,2	,61	,7.55,2	,1	,0	,0	,0	,0	,0	,1	,1	,0	,0	,3	,0	,0	,0	,1	,Internacional,Cruzeiro,06-Apr-25,True
+Bruno Henrique,37,DMC,3	,0	,1	,97.8	,1	,57	,7.21,4	,0	,0	,0	,2	,1	,1	,4	,3	,0	,0	,0	,0	,0	,1	,1	,Internacional,Cruzeiro,06-Apr-25,True
+Johan Carbonero,27,AMR,4	,0	,1	,83.9	,1	,52	,7.08,2	,0	,1	,0	,2	,3	,0	,0	,0	,0	,0	,2	,3	,1	,1	,1	,Internacional,Cruzeiro,06-Apr-25,True
+Alan Patrick,35,AMC,2	,2	,5	,98.2	,0	,72	,8.69,0	,0	,0	,0	,0	,6	,2	,2	,2	,1	,1	,2	,0	,0	,2	,1	,Internacional,Cruzeiro,06-Apr-25,True
+Wesley,28,AML,3	,2	,2	,89.5	,1	,56	,8.14,4	,0	,1	,0	,2	,2	,0	,2	,1	,0	,0	,1	,2	,0	,1	,2	,Internacional,Cruzeiro,06-Apr-25,True
+Enner Valencia,37,FW,4	,2	,1	,80	,2	,22	,7.91,0	,1	,0	,0	,4	,1	,0	,0	,0	,0	,0	,1	,1	,1	,2	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Diego Rosa,24,Sub,0	,0	,1	,100	,0	,10	,6.11,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Ronaldo,30,Sub,2	,1	,0	,100	,1	,51	,6.95,3	,0	,1	,0	,0	,0	,0	,5	,5	,0	,0	,0	,0	,0	,0	,1	,Internacional,Cruzeiro,06-Apr-25,True
+Rafael Borré,31,Sub,1	,1	,0	,100	,0	,7	,7.40,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,1	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Óscar Romero,34,Sub,1	,0	,2	,94.7	,0	,28	,6.98,1	,1	,0	,0	,1	,1	,0	,4	,4	,0	,0	,0	,1	,0	,1	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Vitinho,28,Sub,1	,0	,1	,83.3	,0	,9	,6.22,0	,0	,0	,0	,1	,0	,0	,1	,0	,0	,0	,0	,2	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Thiago Maia,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Ivan,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Kaique Rocha,26,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Ramon,26,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Nathan,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Lucca,24,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Clayton,27,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Internacional,Cruzeiro,06-Apr-25,True
+Cássio,39,GK,0	,0	,0	,68.8	,0	,30	,7.26,0	,0	,0	,0	,0	,0	,0	,11	,6	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+William,32,DR,0	,0	,0	,73	,1	,68	,6.52,4	,2	,3	,1	,3	,2	,1	,6	,2	,0	,0	,0	,2	,1	,0	,2	,Cruzeiro,Internacional,06-Apr-25,False
+Fabrício Bruno,31,DC,0	,0	,0	,83.9	,2	,46	,6.41,1	,0	,6	,4	,1	,0	,0	,8	,4	,0	,0	,0	,1	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Jonathan,22,DC,0	,0	,0	,100	,0	,5	,5.35,0	,0	,2	,0	,2	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Kaiki,24,DL,1	,0	,1	,84.2	,0	,52	,6.89,4	,1	,1	,1	,0	,0	,0	,0	,0	,0	,0	,2	,2	,0	,4	,3	,Cruzeiro,Internacional,06-Apr-25,False
+Lucas Romero,32,MC,0	,0	,0	,86.1	,1	,49	,6.39,4	,1	,1	,0	,0	,0	,0	,5	,2	,0	,0	,1	,3	,0	,2	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Matheus Henrique,29,MC,0	,0	,1	,95.4	,0	,64	,6.58,5	,0	,0	,1	,0	,0	,0	,2	,2	,0	,0	,1	,4	,0	,4	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Eduardo,37,MC,0	,0	,0	,80	,0	,7	,6.16,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Wanderson,32,FWR,1	,0	,0	,78.6	,0	,30	,6.74,1	,0	,0	,0	,1	,1	,0	,2	,0	,0	,0	,4	,1	,1	,0	,3	,Cruzeiro,Internacional,06-Apr-25,False
+Gabriel Barbosa,30,FW,1	,0	,0	,80	,0	,8	,5.83,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,1	,1	,0	,1	,Cruzeiro,Internacional,06-Apr-25,False
+Dudu,35,FWL,1	,0	,1	,69.2	,1	,28	,6.07,0	,1	,0	,0	,1	,0	,0	,0	,0	,0	,0	,1	,2	,0	,3	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Lautaro Díaz,28,Sub,1	,1	,1	,72.7	,0	,18	,6.38,0	,0	,0	,0	,0	,2	,0	,0	,0	,0	,0	,2	,0	,0	,1	,1	,Cruzeiro,Internacional,06-Apr-25,False
+Marlon,29,Sub,0	,0	,1	,100	,0	,7	,6.06,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,Cruzeiro,Internacional,06-Apr-25,False
+Marquinhos,24,Sub,0	,0	,1	,60	,0	,7	,6.04,0	,0	,0	,0	,0	,2	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Mateo Gamarra,26,Sub,1	,0	,0	,70.4	,1	,36	,6.41,3	,1	,4	,0	,0	,0	,0	,4	,0	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Rodriguinho,23,Sub,0	,0	,0	,100	,0	,10	,5.99,0	,0	,0	,0	,2	,1	,1	,0	,0	,0	,0	,1	,0	,0	,1	,2	,Cruzeiro,Internacional,06-Apr-25,False
+Lucas Villalba,32,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Kaio Jorge,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Fágner,37,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Lucas Silva,34,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Yannick Bolasie,37,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Léo Aragão,24,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Murilo Rhikman,21,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Cruzeiro,Internacional,06-Apr-25,False
+Lucas Arcanjo,28,GK,0	,0	,0	,80	,0	,47	,6.94,0	,0	,1	,0	,0	,0	,0	,10	,5	,0	,0	,0	,0	,0	,0	,0	,Vitoria,Flamengo,06-Apr-25,True
+Claudinho,26,DR,0	,0	,1	,72.7	,0	,68	,6.41,2	,1	,4	,0	,0	,4	,2	,6	,1	,0	,0	,0	,0	,0	,0	,2	,Vitoria,Flamengo,06-Apr-25,True
+Lucas Halter,26,DC,0	,0	,0	,87.8	,2	,53	,6.41,1	,1	,8	,0	,0	,0	,0	,5	,2	,0	,0	,0	,0	,1	,0	,0	,Vitoria,Flamengo,06-Apr-25,True
+Zé Marcos,29,DC,0	,0	,0	,86.5	,1	,66	,6.45,1	,0	,10	,1	,0	,0	,0	,8	,4	,0	,0	,0	,0	,0	,0	,2	,Vitoria,Flamengo,06-Apr-25,True
+Jamerson,28,DL,1	,1	,0	,94.7	,0	,63	,6.50,0	,1	,3	,1	,0	,3	,0	,0	,0	,0	,0	,2	,0	,0	,2	,1	,Vitoria,Flamengo,06-Apr-25,True
+Ricardo Ryller,33,DMC,0	,0	,0	,78.3	,0	,33	,6.48,3	,0	,1	,0	,1	,0	,0	,2	,1	,0	,0	,0	,2	,0	,2	,1	,Vitoria,Flamengo,06-Apr-25,True
+Erick,29,MR,1	,0	,1	,85	,0	,34	,6.89,0	,0	,1	,0	,0	,0	,0	,3	,2	,0	,0	,3	,4	,0	,1	,1	,Vitoria,Flamengo,06-Apr-25,True
+Willian Oliveira,33,MC,0	,0	,0	,90.6	,0	,41	,6.45,0	,2	,2	,0	,1	,0	,0	,0	,0	,0	,0	,1	,3	,0	,0	,1	,Vitoria,Flamengo,06-Apr-25,True
+Gabriel Baralhas,28,MC,1	,0	,1	,91.2	,2	,45	,6.36,0	,1	,2	,0	,1	,0	,0	,3	,2	,0	,0	,0	,2	,0	,0	,1	,Vitoria,Flamengo,06-Apr-25,True
+Matheuzinho,29,ML,0	,0	,1	,76.3	,1	,56	,6.73,1	,1	,1	,0	,0	,1	,0	,1	,0	,0	,0	,3	,4	,0	,2	,2	,Vitoria,Flamengo,06-Apr-25,True
+Janderson,27,FW,0	,0	,0	,84.6	,1	,25	,6.14,0	,0	,0	,0	,2	,0	,0	,1	,0	,0	,0	,2	,1	,2	,1	,1	,Vitoria,Flamengo,06-Apr-25,True
+Léo Pereira,26,Sub,0	,0	,0	,100	,0	,6	,6.19,2	,0	,0	,0	,2	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,2	,Vitoria,Flamengo,06-Apr-25,True
+Osvaldo,39,Sub,0	,0	,0	,100	,0	,2	,5.90,0	,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vitoria,Flamengo,06-Apr-25,True
+Wellington Rato,34,Sub,1	,1	,0	,77.8	,0	,14	,6.92,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,1	,Vitoria,Flamengo,06-Apr-25,True
+Fabrício,26,Sub,1	,1	,0	,75	,0	,10	,6.25,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,1	,0	,0	,1	,2	,Vitoria,Flamengo,06-Apr-25,True
+Pepê,29,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vitoria,Flamengo,06-Apr-25,True
+Edu,26,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vitoria,Flamengo,06-Apr-25,True
+Carlos Eduardo,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vitoria,Flamengo,06-Apr-25,True
+Neris,34,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vitoria,Flamengo,06-Apr-25,True
+Gustavo Silva,29,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vitoria,Flamengo,06-Apr-25,True
+Raúl Cáceres,35,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vitoria,Flamengo,06-Apr-25,True
+Fintelman,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vitoria,Flamengo,06-Apr-25,True
+Ronald,29,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Vitoria,Flamengo,06-Apr-25,True
+Agustín Rossi,31,GK,0	,0	,0	,77.3	,0	,31	,6.29,0	,0	,1	,0	,0	,0	,0	,5	,0	,0	,0	,0	,0	,0	,0	,0	,Flamengo,Vitoria,06-Apr-25,False
+Wesley,23,DR,0	,0	,2	,83.3	,1	,61	,6.85,2	,0	,3	,0	,4	,3	,1	,1	,1	,0	,0	,2	,2	,0	,1	,4	,Flamengo,Vitoria,06-Apr-25,False
+Léo Ortiz,31,DC,0	,0	,0	,88.3	,1	,100	,6.09,0	,0	,3	,0	,0	,0	,0	,9	,5	,0	,0	,1	,0	,0	,0	,1	,Flamengo,Vitoria,06-Apr-25,False
+Léo Pereira,31,DC,0	,0	,0	,96.9	,2	,104	,6.64,2	,0	,1	,1	,0	,0	,0	,5	,4	,0	,0	,0	,0	,0	,0	,0	,Flamengo,Vitoria,06-Apr-25,False
+Alex Sandro,36,DL,0	,0	,1	,90.4	,3	,117	,7.23,0	,3	,2	,0	,4	,1	,0	,9	,5	,1	,1	,1	,0	,0	,1	,0	,Flamengo,Vitoria,06-Apr-25,False
+Erick Pulgar,33,DMC,1	,1	,0	,93.8	,1	,94	,6.64,2	,1	,1	,0	,6	,4	,0	,1	,0	,0	,0	,0	,1	,0	,1	,1	,Flamengo,Vitoria,06-Apr-25,False
+Nicolás de la Cruz,29,DMC,0	,0	,0	,93.2	,1	,68	,6.63,2	,0	,1	,0	,0	,3	,0	,0	,0	,0	,0	,0	,1	,0	,0	,1	,Flamengo,Vitoria,06-Apr-25,False
+Gerson,29,AMR,2	,2	,0	,96	,0	,64	,6.94,0	,0	,0	,0	,0	,0	,0	,1	,1	,0	,0	,2	,3	,0	,0	,2	,Flamengo,Vitoria,06-Apr-25,False
+Giorgian de Arrascaeta,32,AMC,2	,1	,2	,79.6	,2	,56	,8.23,2	,1	,1	,0	,0	,1	,0	,2	,1	,0	,0	,2	,0	,0	,0	,1	,Flamengo,Vitoria,06-Apr-25,False
+Everton,31,AML,1	,0	,2	,83.3	,0	,33	,6.11,0	,0	,0	,0	,2	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,3	,Flamengo,Vitoria,06-Apr-25,False
+Juninho,30,FW,3	,0	,0	,85.7	,0	,17	,6.81,3	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,1	,Flamengo,Vitoria,06-Apr-25,False
+Luiz Araújo,30,Sub,1	,1	,2	,76.5	,0	,21	,6.82,0	,0	,0	,0	,0	,2	,0	,1	,0	,0	,0	,0	,0	,0	,0	,1	,Flamengo,Vitoria,06-Apr-25,False
+Bruno Henrique,36,Sub,4	,2	,0	,100	,1	,13	,7.41,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,1	,Flamengo,Vitoria,06-Apr-25,False
+Evertton Araújo,24,Sub,0	,0	,0	,100	,0	,4	,6.01,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Flamengo,Vitoria,06-Apr-25,False
+Gonzalo Plata,26,Sub,0	,0	,2	,100	,0	,12	,6.52,1	,0	,1	,0	,0	,0	,0	,1	,1	,1	,1	,0	,0	,0	,0	,0	,Flamengo,Vitoria,06-Apr-25,False
+Michael,31,Sub,0	,0	,1	,87.5	,0	,13	,6.03,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,3	,Flamengo,Vitoria,06-Apr-25,False
+Allan,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Flamengo,Vitoria,06-Apr-25,False
+Ayrton Lucas,29,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Flamengo,Vitoria,06-Apr-25,False
+Matheus Cunha,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Flamengo,Vitoria,06-Apr-25,False
+Matheus Gonçalves,21,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Flamengo,Vitoria,06-Apr-25,False
+Guillermo Varela,34,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Flamengo,Vitoria,06-Apr-25,False
+Cleiton,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Flamengo,Vitoria,06-Apr-25,False
+João Victor,20,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Flamengo,Vitoria,06-Apr-25,False
+Caíque França,31,GK,0	,0	,0	,70.8	,0	,29	,6.09,0	,0	,0	,0	,0	,0	,0	,9	,4	,0	,0	,0	,0	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Hereda,28,DR,1	,0	,0	,75	,0	,22	,6.72,3	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,2	,0	,2	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+João Silva,28,DC,1	,1	,0	,80	,3	,50	,6.48,1	,0	,5	,0	,0	,0	,0	,9	,7	,0	,0	,0	,1	,0	,0	,1	,Sport Recife,Palmeiras,06-Apr-25,True
+Chico,28,DC,0	,0	,0	,85.3	,1	,53	,6.23,2	,2	,11	,0	,2	,0	,0	,7	,4	,0	,0	,0	,1	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Igor Cariús,33,DL,0	,0	,1	,80.6	,1	,57	,6.58,4	,0	,3	,0	,1	,5	,0	,4	,0	,0	,0	,0	,4	,1	,0	,1	,Sport Recife,Palmeiras,06-Apr-25,True
+Lucas Lima,36,MR,0	,0	,4	,84.9	,0	,57	,7.14,1	,1	,2	,0	,2	,5	,2	,6	,6	,0	,0	,0	,4	,0	,1	,2	,Sport Recife,Palmeiras,06-Apr-25,True
+Sérgio Oliveira,34,MC,2	,0	,0	,77.1	,0	,67	,6.41,3	,0	,0	,0	,2	,6	,0	,12	,6	,0	,0	,0	,2	,0	,1	,2	,Sport Recife,Palmeiras,06-Apr-25,True
+Christian Rivera,31,MC,1	,0	,0	,89.4	,1	,57	,6.65,4	,0	,2	,0	,3	,0	,0	,4	,3	,0	,0	,0	,1	,0	,1	,1	,Sport Recife,Palmeiras,06-Apr-25,True
+Du Queiroz,27,MC,1	,0	,0	,72.7	,0	,34	,6.14,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,2	,0	,0	,0	,2	,Sport Recife,Palmeiras,06-Apr-25,True
+Chrystian Barletta,25,ML,3	,1	,0	,66.7	,0	,37	,6.88,0	,0	,0	,0	,1	,2	,0	,2	,1	,0	,0	,0	,0	,0	,0	,4	,Sport Recife,Palmeiras,06-Apr-25,True
+Pablo,34,FW,0	,0	,1	,63.2	,1	,30	,6.35,1	,0	,2	,0	,2	,0	,0	,1	,0	,0	,0	,0	,3	,0	,0	,3	,Sport Recife,Palmeiras,06-Apr-25,True
+Carlos Alberto,24,Sub,0	,0	,0	,100	,0	,5	,5.86,0	,0	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Matheus Alexandre,28,Sub,0	,0	,0	,86.7	,2	,33	,6.11,2	,1	,4	,0	,2	,0	,0	,1	,0	,0	,0	,0	,0	,0	,1	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Fabricio Domínguez,28,Sub,0	,0	,0	,50	,1	,4	,5.95,0	,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Lenny Lobato,26,Sub,0	,0	,0	,100	,0	,2	,5.90,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Arthur Sousa,24,Sub,0	,0	,1	,66.7	,0	,6	,5.93,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,Sport Recife,Palmeiras,06-Apr-25,True
+Hyoran,33,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Lucas Cunha,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Romarinho,33,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Gustavo Maia,26,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Christian Ortíz,34,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Renzo,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Thiago Couto,28,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Sport Recife,Palmeiras,06-Apr-25,True
+Weverton,39,GK,0	,0	,0	,47.8	,0	,33	,6.50,0	,0	,2	,0	,0	,0	,0	,17	,5	,0	,0	,0	,2	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Bruno Fuchs,28,DC,0	,0	,0	,83.3	,1	,36	,6.22,0	,2	,3	,0	,2	,0	,0	,7	,4	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Micael,26,DC,0	,0	,0	,90.4	,1	,66	,7.00,4	,0	,5	,0	,0	,0	,0	,7	,4	,0	,0	,1	,0	,0	,0	,2	,Palmeiras,Sport Recife,06-Apr-25,False
+Murilo,30,DC,0	,0	,0	,85.5	,3	,66	,6.68,0	,1	,6	,1	,2	,0	,0	,9	,4	,0	,0	,0	,1	,0	,0	,1	,Palmeiras,Sport Recife,06-Apr-25,False
+Agustín Giay,23,DMR,0	,0	,0	,69.7	,2	,56	,6.66,3	,0	,0	,0	,1	,2	,0	,7	,1	,0	,0	,0	,4	,0	,1	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Vanderlan,24,DML,0	,0	,0	,92.3	,0	,30	,6.52,0	,2	,0	,1	,1	,3	,0	,0	,0	,0	,0	,2	,0	,0	,0	,1	,Palmeiras,Sport Recife,06-Apr-25,False
+Lucas Evangelista,32,MC,0	,0	,1	,76.5	,1	,24	,6.14,0	,0	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,3	,0	,0	,2	,Palmeiras,Sport Recife,06-Apr-25,False
+Emiliano Martínez,27,MC,0	,0	,0	,66.7	,0	,36	,6.49,3	,1	,1	,0	,1	,0	,0	,3	,2	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Felipe Anderson,33,AMC,0	,0	,0	,66.7	,1	,23	,6.33,2	,0	,1	,0	,0	,1	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Facundo Torres,26,AMC,1	,1	,0	,95	,1	,30	,6.23,1	,0	,0	,1	,1	,1	,0	,1	,1	,0	,0	,0	,0	,0	,2	,1	,Palmeiras,Sport Recife,06-Apr-25,False
+José López,26,FW,2	,1	,0	,69.2	,3	,33	,7.09,0	,0	,1	,1	,7	,0	,0	,0	,0	,0	,0	,0	,2	,0	,2	,5	,Palmeiras,Sport Recife,06-Apr-25,False
+Aníbal Moreno,27,Sub,0	,0	,1	,70.6	,0	,21	,6.50,0	,1	,1	,0	,0	,2	,1	,2	,0	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Vitor Roque,22,Sub,0	,0	,0	,50	,0	,11	,6.46,1	,1	,0	,0	,1	,1	,1	,0	,0	,0	,0	,1	,1	,0	,1	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Raphael Veiga,31,Sub,1	,1	,0	,70	,0	,19	,6.74,1	,0	,0	,1	,1	,3	,0	,1	,0	,0	,0	,0	,1	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Joaquín Piquerez,28,Sub,2	,1	,0	,77.8	,0	,32	,6.76,0	,0	,2	,0	,2	,1	,1	,4	,2	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Estêvão,19,Sub,1	,0	,1	,80	,0	,23	,6.22,0	,0	,0	,0	,1	,0	,0	,1	,0	,0	,0	,1	,2	,0	,1	,3	,Palmeiras,Sport Recife,06-Apr-25,False
+Kaiky Naves,24,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Marcelo Lomba,40,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Gustavo Gómez,33,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Luiz Benedetti,20,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Thalys,22,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Luighi Hanri,20,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Allan,22,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Palmeiras,Sport Recife,06-Apr-25,False
+Gabriel Brazão,26,GK,0	,0	,0	,66.7	,0	,21	,5.81,0	,0	,2	,0	,0	,0	,0	,8	,2	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+João Pedro Chermont,21,DR,1	,1	,1	,80	,3	,60	,7.02,4	,2	,2	,0	,4	,5	,2	,0	,0	,0	,0	,0	,0	,2	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Gil,39,DC,0	,0	,0	,93.2	,2	,48	,6.06,1	,0	,2	,1	,2	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Zé Ivaldo,30,DC,1	,0	,0	,91.1	,2	,65	,6.42,2	,2	,2	,0	,1	,0	,0	,6	,3	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Gonzalo Escobar,30,DL,0	,0	,4	,85.5	,0	,101	,7.34,3	,0	,5	,0	,2	,8	,3	,3	,2	,0	,0	,2	,2	,0	,1	,2	,Santos FC,Bahia,07-Apr-25,True
+João Schmidt,33,DMC,0	,0	,1	,91.9	,3	,75	,6.64,0	,2	,1	,1	,3	,0	,0	,5	,4	,0	,0	,0	,2	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Gabriel Bontempo,22,DMC,1	,0	,2	,83.3	,1	,48	,6.78,1	,2	,1	,0	,0	,1	,0	,1	,1	,0	,0	,1	,3	,0	,1	,2	,Santos FC,Bahia,07-Apr-25,True
+Benjamín Rollheiser,27,AMR,1	,0	,2	,84.6	,0	,37	,6.96,3	,0	,0	,0	,0	,1	,0	,2	,1	,0	,0	,2	,1	,0	,1	,0	,Santos FC,Bahia,07-Apr-25,True
+Álvaro Barreal,26,AMC,0	,0	,1	,88	,1	,35	,6.22,0	,1	,0	,0	,0	,3	,0	,3	,2	,0	,0	,1	,1	,1	,0	,2	,Santos FC,Bahia,07-Apr-25,True
+Guilherme,31,AML,5	,1	,1	,78	,4	,70	,7.07,2	,0	,0	,0	,1	,6	,1	,3	,1	,0	,0	,2	,1	,1	,2	,0	,Santos FC,Bahia,07-Apr-25,True
+Tiquinho Soares,36,FW,2	,1	,0	,80	,1	,17	,6.83,1	,1	,1	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,1	,Santos FC,Bahia,07-Apr-25,True
+Gabriel Veron,24,Sub,0	,0	,1	,66.7	,1	,9	,6.12,0	,0	,0	,0	,0	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Thaciano,31,Sub,6	,1	,1	,80	,1	,19	,7.51,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,1	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Diego Pituca,34,Sub,2	,1	,0	,88.9	,0	,13	,7.07,1	,1	,0	,0	,0	,0	,0	,2	,1	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Yeferson Soteldo,29,Sub,2	,1	,0	,80	,0	,40	,6.43,1	,0	,0	,0	,0	,7	,1	,1	,0	,0	,0	,1	,2	,0	,1	,1	,Santos FC,Bahia,07-Apr-25,True
+Deivid Washington,21,Sub,0	,0	,0	,75	,1	,6	,6.07,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,1	,0	,Santos FC,Bahia,07-Apr-25,True
+Leonardo Godoy,31,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Kevyson,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Luan Peres,32,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+João Basso,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+João Paulo,31,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Tomás Rincón,39,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Luisão,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Santos FC,Bahia,07-Apr-25,True
+Ronaldo,30,GK,0	,0	,0	,50	,0	,52	,6.33,0	,0	,1	,0	,0	,0	,0	,27	,8	,0	,0	,0	,0	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Gilberto,34,DR,0	,0	,0	,76.7	,3	,76	,6.50,7	,0	,5	,0	,0	,1	,0	,3	,1	,0	,0	,2	,1	,0	,2	,1	,Bahia,Santos FC,07-Apr-25,False
+Santiago Ramos Mingo,25,DC,0	,0	,1	,80.9	,2	,55	,6.56,1	,1	,1	,3	,0	,0	,0	,9	,4	,0	,0	,0	,0	,0	,1	,0	,Bahia,Santos FC,07-Apr-25,False
+David Duarte,32,DC,0	,0	,0	,61.5	,2	,46	,7.10,1	,4	,11	,2	,1	,0	,0	,4	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Iago Borduchi,30,DL,0	,0	,0	,84.6	,0	,33	,6.46,0	,1	,0	,0	,1	,2	,0	,0	,0	,0	,0	,1	,1	,0	,0	,1	,Bahia,Santos FC,07-Apr-25,False
+Caio Alexandre,28,MC,0	,0	,0	,86.5	,0	,52	,6.52,4	,0	,3	,2	,3	,1	,0	,3	,1	,0	,0	,0	,1	,0	,3	,0	,Bahia,Santos FC,07-Apr-25,False
+Rodrigo Nestor,26,MC,0	,0	,0	,89.7	,0	,35	,6.30,2	,0	,0	,0	,2	,0	,0	,2	,2	,0	,0	,0	,1	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Erick,29,MC,4	,1	,0	,73.9	,5	,40	,7.29,1	,1	,2	,0	,5	,0	,0	,2	,1	,0	,0	,1	,1	,0	,0	,1	,Bahia,Santos FC,07-Apr-25,False
+Ademir,32,FWR,0	,0	,2	,53.9	,1	,32	,6.93,0	,0	,1	,0	,2	,5	,3	,0	,0	,0	,0	,2	,3	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Willian José,35,FW,2	,1	,1	,73.9	,0	,33	,6.68,0	,0	,1	,0	,0	,0	,0	,2	,1	,0	,0	,2	,2	,0	,1	,0	,Bahia,Santos FC,07-Apr-25,False
+Luciano Juba,27,FWL,1	,1	,2	,83.9	,1	,44	,8.31,1	,0	,1	,0	,1	,3	,2	,2	,0	,1	,1	,1	,0	,0	,1	,0	,Bahia,Santos FC,07-Apr-25,False
+Kayky,23,Sub,0	,0	,0	,100	,0	,13	,5.95,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,Bahia,Santos FC,07-Apr-25,False
+Erick Pulga,26,Sub,3	,0	,0	,88.9	,0	,17	,5.97,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,2	,0	,0	,1	,Bahia,Santos FC,07-Apr-25,False
+Cauly,31,Sub,0	,0	,2	,100	,0	,21	,6.48,0	,0	,0	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,0	,0	,2	,Bahia,Santos FC,07-Apr-25,False
+Jean Lucas,28,Sub,0	,0	,1	,85.7	,0	,27	,6.24,0	,0	,0	,1	,1	,1	,1	,1	,1	,0	,0	,0	,0	,0	,3	,1	,Bahia,Santos FC,07-Apr-25,False
+Luciano Rodríguez,23,Sub,0	,0	,0	,100	,0	,10	,6.04,0	,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Marcos Felipe,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Kanu,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Danilo Fernandes,39,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Santiago Arias,35,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Nicolás Acevedo,27,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Tiago,21,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Rezende,32,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Bahia,Santos FC,07-Apr-25,False
+Alex Muralha,37,GK,0	,0	,0	,73.3	,0	,20	,6.29,0	,0	,0	,0	,0	,0	,0	,6	,2	,0	,0	,0	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Lucas Ramon,33,DR,1	,0	,2	,72.1	,2	,76	,6.96,4	,1	,1	,0	,0	,8	,2	,0	,0	,0	,0	,1	,0	,0	,1	,0	,Mirassol,Fortaleza,06-Apr-25,True
+João Victor,29,DC,0	,0	,1	,93.6	,6	,69	,6.74,0	,1	,1	,0	,0	,0	,0	,1	,0	,0	,0	,0	,2	,0	,0	,1	,Mirassol,Fortaleza,06-Apr-25,True
+Jemmes,26,DC,1	,0	,1	,91.6	,5	,79	,6.88,0	,2	,2	,0	,1	,0	,0	,3	,2	,0	,0	,2	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Reinaldo,37,DL,0	,0	,3	,85.5	,0	,94	,6.34,0	,0	,2	,0	,1	,6	,1	,3	,2	,0	,0	,0	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Danielzinho,32,DMC,4	,0	,2	,87.8	,2	,113	,6.89,4	,0	,0	,0	,2	,3	,1	,2	,2	,0	,0	,0	,2	,0	,1	,5	,Mirassol,Fortaleza,06-Apr-25,True
+Neto Moura,30,DMC,0	,0	,0	,88.9	,0	,66	,5.93,0	,0	,0	,0	,2	,1	,0	,6	,5	,0	,0	,0	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Fabrício Daniel,29,AMR,0	,0	,0	,77.8	,1	,35	,6.27,0	,0	,0	,1	,0	,1	,0	,1	,0	,0	,0	,1	,1	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+José Aldo,28,AMC,2	,1	,0	,80.3	,1	,72	,6.38,2	,1	,0	,0	,2	,0	,0	,8	,7	,0	,0	,0	,0	,1	,0	,1	,Mirassol,Fortaleza,06-Apr-25,True
+Clayson,32,AML,1	,0	,1	,79.2	,1	,37	,6.42,0	,0	,0	,0	,0	,7	,1	,1	,1	,0	,0	,1	,2	,2	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Iury Castilho,31,FW,0	,0	,0	,83.3	,1	,26	,5.94,0	,0	,1	,0	,1	,0	,0	,0	,0	,0	,0	,0	,5	,2	,1	,3	,Mirassol,Fortaleza,06-Apr-25,True
+Gabriel,37,Sub,1	,1	,2	,88.9	,0	,27	,6.57,1	,0	,0	,1	,0	,2	,2	,1	,0	,0	,0	,0	,0	,0	,2	,2	,Mirassol,Fortaleza,06-Apr-25,True
+Daniel Borges,34,Sub,0	,0	,0	,100	,1	,13	,6.14,0	,0	,0	,0	,0	,2	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Matheus Davó,27,Sub,1	,0	,2	,50	,0	,9	,6.85,0	,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Cristian,27,Sub,5	,2	,1	,66.7	,1	,13	,7.34,0	,0	,0	,0	,3	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Everton Maceió,23,Sub,4	,1	,2	,84.6	,0	,24	,6.65,0	,0	,0	,0	,0	,1	,0	,0	,0	,0	,0	,1	,0	,0	,0	,2	,Mirassol,Fortaleza,06-Apr-25,True
+Walter,39,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Luiz Filipe,25,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Thomazella,36,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Gabriel,23,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Wesley Santos,22,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+Chico,35,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Mirassol,Fortaleza,06-Apr-25,True
+João Ricardo,38,GK,0	,0	,1	,60.7	,0	,39	,6.98,0	,0	,1	,0	,0	,0	,0	,27	,16	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Eros Mancuso,27,DR,0	,0	,0	,71.4	,0	,21	,6.17,0	,0	,1	,0	,1	,0	,0	,3	,1	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Titi,39,DC,0	,0	,0	,69.6	,1	,33	,6.41,2	,1	,5	,0	,2	,0	,0	,7	,1	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Benjamín Kuscevic,30,DC,0	,0	,0	,75	,3	,47	,7.65,2	,3	,16	,1	,3	,0	,0	,6	,2	,0	,0	,1	,0	,0	,0	,1	,Fortaleza,Mirassol,06-Apr-25,False
+Bruno Pacheco,35,DL,0	,0	,0	,65.4	,1	,60	,6.50,3	,0	,2	,0	,0	,1	,0	,7	,2	,0	,0	,0	,2	,0	,1	,2	,Fortaleza,Mirassol,06-Apr-25,False
+Zé Welison,32,DMC,1	,0	,1	,65.4	,1	,41	,6.93,4	,1	,4	,1	,0	,0	,0	,5	,0	,0	,0	,0	,1	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Yago Pikachu,34,MR,0	,0	,1	,57.1	,1	,28	,6.83,2	,1	,3	,1	,0	,1	,1	,0	,0	,0	,0	,0	,0	,1	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Emmanuel Martínez,32,MC,1	,1	,0	,88	,0	,34	,7.37,0	,1	,1	,0	,1	,1	,1	,5	,4	,0	,0	,0	,0	,0	,0	,1	,Fortaleza,Mirassol,06-Apr-25,False
+Lucas Sasha,37,MC,0	,0	,0	,64.7	,0	,46	,6.48,5	,1	,1	,1	,2	,1	,0	,2	,0	,0	,0	,0	,3	,0	,3	,3	,Fortaleza,Mirassol,06-Apr-25,False
+Moisés,30,ML,2	,1	,1	,83.3	,1	,20	,6.96,0	,0	,0	,0	,0	,0	,0	,1	,0	,0	,0	,1	,1	,1	,1	,6	,Fortaleza,Mirassol,06-Apr-25,False
+Deyverson,35,FW,2	,1	,0	,42.3	,11	,37	,7.11,0	,1	,1	,0	,2	,1	,0	,2	,2	,0	,0	,0	,2	,0	,1	,1	,Fortaleza,Mirassol,06-Apr-25,False
+Juan Lucero,35,Sub,1	,0	,0	,80	,1	,7	,6.05,0	,0	,0	,0	,0	,1	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Guillermo Fernández,35,Sub,0	,0	,0	,80	,0	,6	,5.97,0	,0	,0	,0	,1	,0	,0	,1	,1	,0	,0	,1	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+David Luiz,39,Sub,0	,0	,0	,80	,0	,9	,6.20,1	,0	,1	,2	,0	,0	,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Allanzinho,27,Sub,0	,0	,1	,77.8	,1	,12	,6.27,0	,1	,0	,0	,0	,0	,0	,0	,0	,0	,0	,1	,0	,1	,0	,1	,Fortaleza,Mirassol,06-Apr-25,False
+Marinho,36,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Diogo Barbosa,34,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Matheus Rossetto,30,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Brenno,28,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Calebe,26,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Kervin Andrade,21,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Gustavo Mancha,22,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
+Bruninho,21,Sub,0	,0	,0	,0	,0	,0	,-,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,0	,Fortaleza,Mirassol,06-Apr-25,False
