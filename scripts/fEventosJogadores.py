@@ -3,7 +3,7 @@ import os
 from glob import glob
 
 # Caminho da pasta onde estão os arquivos data_*.csv
-PASTA_DADOS = r"C:\Users\lucas\OneDrive\Documentos\Python\Futebol\Data\Data novo"
+PASTA_DADOS = r"C:o"
 ARQUIVOS_CSV = glob(os.path.join(PASTA_DADOS, "data_*.csv"))
 
 # Lista para armazenar todos os DataFrames
