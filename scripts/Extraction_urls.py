@@ -7,14 +7,14 @@ from selenium.webdriver.edge.service import Service
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 
 # Caminhos e timestamp para o nome do arquivo
-PATH_TO_DRIVER = r"C:\edgedriver_win64\msedgedriver.exe"
+PATH_TO_DRIVER = r"C:\Users\lucas\OneDrive\Documentos\Python\edgedriver_win64\msedgedriver.exe"
 BASE_URL = "https://www.whoscored.com"
-OUTPUT_FOLDER = r"C:\..."
+OUTPUT_FOLDER = r"C:\Users\lucas\OneDrive\Documentos\Python\Futebol\Data\URL's"
 timestamp = datetime.now().strftime('%d-%m-%y-%H-%M')
-URLS_FILE = os.path.join(OUTPUT_FOLDER, f'match_urls_teste_{timestamp}.txt')
+URLS_FILE = os.path.join(OUTPUT_FOLDER, f'match_urls_{timestamp}.txt')
 
-# URL do site alvo (nesse exemplo o Brasileirão 2024)
-TARGET_URL = "https://br.whoscored.com/regions/31/tournaments/95/seasons/10003/brasil-brasileir%C3%A3o"
+# URL do site alvo
+TARGET_URL = "https://br.whoscored.com/regions/31/tournaments/95/seasons/9428/brasil-brasileir%C3%A3o"
 
 # Inicia o Edge WebDriver
 service = Service(PATH_TO_DRIVER)
