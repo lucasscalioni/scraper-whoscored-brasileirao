@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Caminho do arquivo de eventos
-CAMINHO_EVENTOS = r"C:\Users\lucas\OneDrive\Documentos\Python\Futebol\Data\Data novo\fEventosPartida.csv"
+CAMINHO_EVENTOS = r"C:\U"
 df = pd.read_csv(CAMINHO_EVENTOS)
 
 # Garantir colunas esperadas e consistência
