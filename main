@@ -1,0 +1,6 @@
+scraper-whoscored-brasileirao/
+├── data/
+│   ├── raw/
+│   └── processed/
+├── scripts/
+├── dashboards/
