@@ -7,9 +7,9 @@ import os
 from datetime import datetime
 
 # Caminhos fixos
-PATH_TO_DRIVER = r"C:\Users\lucas\OneDrive\Documentos\Python\edgedriver_win64\msedgedriver.exe"
+PATH_TO_DRIVER = r"C:"
 BASE_URL = "https://www.whoscored.com"
-OUTPUT_FOLDER = r"C:\Users\lucas\OneDrive\Documentos\Python\Futebol"
+OUTPUT_FOLDER = r"C:"
 URLS_FILE = os.path.join(OUTPUT_FOLDER, "match_urls.txt")
 timestamp = datetime.now().strftime('%d-%m-%y-%H-%M-%S')
 SAVE_PATH = os.path.join(OUTPUT_FOLDER, f"eventos_{timestamp}.csv")
