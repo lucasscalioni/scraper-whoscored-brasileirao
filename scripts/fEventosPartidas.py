@@ -2,7 +2,7 @@ import pandas as pd
 import os
 from glob import glob
 
-PASTA_DADOS = r"C:\Users\lucas\OneDrive\Documentos\Python\Futebol\Data\Data novo"
+PASTA_DADOS = r"C:\"
 ARQUIVOS_EVENTOS = glob(os.path.join(PASTA_DADOS, "eventos_*.csv"))
 
 eventos_df = []
