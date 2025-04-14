@@ -3,7 +3,7 @@ import glob
 import pandas as pd
 
 # Caminho onde estão os arquivos data_*.csv
-caminho = r"C:\Users\lucas\OneDrive\Documentos\Python\Futebol\Data\Data novo"
+caminho = r"C:\Users"
 arquivos_data = glob.glob(os.path.join(caminho, "data_*.csv"))
 print("Arquivos encontrados:", arquivos_data)
 
