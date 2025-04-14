@@ -27,6 +27,7 @@ scraper-whoscored-brasileirao/
 │       ├── fEventosPartida.csv
 │       ├── dJogadores.csv
 │       └── dPartidas.csv
+│       └── dTimes.csv #Feito manualmente
 │
 ├── scripts/
 │   ├── Extraction_urls.py                      # Extrai URLs de partidas por data
