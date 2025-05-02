@@ -3,8 +3,10 @@ import os
 from glob import glob
 
 # Caminho da pasta onde estão os arquivos data_*.csv
-PASTA_DADOS = r"C:o"
-ARQUIVOS_CSV = glob(os.path.join(PASTA_DADOS, "data_*.csv"))
+PASTA_RAW = r"C:\Users\Data\Data raw"
+PASTA_SAIDA = r"C:\Users\Data\Tables"
+ARQUIVOS_CSV = glob(os.path.join(PASTA_RAW, "data_*.csv"))
+CAMINHO_SAIDA = os.path.join(PASTA_SAIDA, "fEventosJogadores.csv")
 
 # Lista para armazenar todos os DataFrames
 todos_df = []
@@ -56,7 +58,7 @@ for caminho_csv in ARQUIVOS_CSV:
 df_final = pd.concat(todos_df, ignore_index=True)
 
 # Caminho de salvamento final
-CAMINHO_SAIDA = os.path.join(PASTA_DADOS, "fEventosJogadores.csv")
+CAMINHO_SAIDA = os.path.join(PASTA_SAIDA, "fEventosJogadores.csv")
 df_final.to_csv(CAMINHO_SAIDA, index=False, encoding="utf-8-sig")
 
 print(f"✅ fEventosJogadores.csv salvo com sucesso em:\n{CAMINHO_SAIDA}")
