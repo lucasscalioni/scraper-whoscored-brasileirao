@@ -17,31 +17,33 @@ Desenvolver um pipeline ETL completo para automatizar a **coleta, transformaçã
 
 ## 📦 Estrutura do Projeto
 
-```
 scraper-whoscored-brasileirao/
 │
-├── data/                         # Os exemplos do GitHub não estão com todos os dados, são exemplos de output
-│   ├── raw/                      # Arquivos brutos extraídos com Selenium
-│   └── processed/                # Arquivos tratados prontos para Power BI
-│       ├── fEventosJogadores.csv
-│       ├── fEventosPartida.csv
-│       ├── dJogadores.csv
-│       └── dPartidas.csv
-│       └── dTimes.csv #Feito manualmente
+├── data/
+│ ├── raw/ # Arquivos brutos extraídos com Selenium
+│ └── tables/ # Arquivos tratados prontos para Power BI
+│ ├── fEventosJogadores.csv
+│ ├── fEventosPartida.csv
+│ ├── dJogadores.csv
+│ ├── dPartidas.csv
+│ └── dTimes.csv # Feito manualmente
 │
 ├── scripts/
-│   ├── Extraction_urls.py                      # Extrai URLs de partidas por data
-│   ├── Extraction_players_events_whoscored.py  # Extrai estatísticas dos jogadores (todas as abas)
-│   ├── Extraction_match_events_whoscored.py    # Extrai eventos da timeline (gols, cartões, assistências)
-│   ├── fEventosJogadores.py                    # Processa estatísticas e cria fEventosJogadores
-│   ├── fEventosPartidas.py                     # Processa eventos e gera fEventosPartida
-│   ├── dJogador.py                             # Cria tabela dJogadores com posição e time
-│   └── dPartidas.py                            # Cria tabela por time em cada jogo (linha dupla por partida)
+│ ├── Extraction_urls.py
+│ ├── Extraction_players_events_whoscored.py
+│ ├── Extraction_match_events_whoscored.py
+│ ├── fEventosJogadores.py
+│ ├── fEventosPartidas.py
+│ ├── dJogador.py
+│ └── dPartidas.py
 │
-├── main.py               # (em construção) Pipeline sequencial com try/except
-├── requirements.txt      # Dependências do projeto
+├── main.py # Orquestrador CLI do pipeline ETL
+├── requirements.txt # Dependências do projeto
 └── README.md
-```
+
+yaml
+Copiar
+Editar
 
 ---
 
@@ -62,21 +64,17 @@ scraper-whoscored-brasileirao/
 
 Extraídas de mais de **400 partidas**, totalizando **+20.000 linhas** com os seguintes campos:
 
-```
 Name, Age, Position, Shots, SoT, KeyPasses, PassAccuracy, AerialsWon, Touches,
 Rating, TackleWon, Interception, Clearance, ShotBlocked, Fouls, PassCrossTotal,
 PassCrossAccurate, PassLongBallTotal, PassLongBallAccurate, PassThroughBallTotal,
 PassThroughBallAccurate, DribbleWon, FoulGiven, OffsideGiven, Dispossessed,
 Turnover, Time, Adversário, Data, Mandante
-```
 
 ### 📅 Eventos Cronológicos por Partida
 
 Cada linha representa um evento relevante (gol, assistência, cartão):
 
-```
 minuto, time, tipo, jogador, assist, placar_momento, descricao, Resultado, Data
-```
 
 ---
 
@@ -84,12 +82,12 @@ minuto, time, tipo, jogador, assist, placar_momento, descricao, Resultado, Data
 
 ### 🔹 Tabelas Geradas
 
-| Tipo        | Nome                  | Descrição                                                   |
-|-------------|-----------------------|--------------------------------------------------------------|
-| Dimensão    | `dJogadores`          | Jogadores únicos por time + posição                          |
-| Dimensão    | `dPartidas`           | Uma linha por time em cada partida, com placar e vencedor    |
-| Fato        | `fEventosJogadores`   | Ações de cada jogador por jogo (passes, chutes, defesa etc.) |
-| Fato        | `fEventosPartida`     | Eventos importantes da partida (gols, assistências etc.)     |
+| Tipo      | Nome                | Descrição                                                   |
+|-----------|---------------------|--------------------------------------------------------------|
+| Dimensão  | `dJogadores`        | Jogadores únicos por time + posição                          |
+| Dimensão  | `dPartidas`         | Uma linha por time em cada partida, com placar e vencedor    |
+| Fato      | `fEventosJogadores` | Ações de cada jogador por jogo (passes, chutes, defesa etc.) |
+| Fato      | `fEventosPartida`   | Eventos importantes da partida (gols, assistências etc.)     |
 
 ### 🔐 Chaves Criadas
 
@@ -99,36 +97,34 @@ minuto, time, tipo, jogador, assist, placar_momento, descricao, Resultado, Data
 
 ---
 
-## 🚀 Pipeline ETL (em construção)
+## 🚀 Pipeline ETL (modularizado via `main.py`)
 
-1. **Extração**
-   - URLs de jogos
-   - Estatísticas por jogador
-   - Timeline de eventos
+### Comandos disponíveis:
+```bash
+python main.py --extrair-eventos        # Scraping da timeline de eventos (gols, assistências, cartões)
+python main.py --extrair-jogadores      # Scraping das estatísticas dos jogadores
+python main.py --eventos-partida        # Processamento e geração do fEventosPartida.csv
+python main.py --eventos-jogadores      # Processamento e geração do fEventosJogadores.csv
+python main.py --dpartidas              # Geração da tabela dPartidas.csv
+python main.py --djogadores             # Atualização da tabela dJogadores.csv
+📌 Próximos Passos
+ Finalizar scraping de todas as partidas disponíveis de 2024–2025
 
-2. **Transformação**
-   - Conversão de tipos, normalização de colunas
-   - Criação de medidas (Gols por Jogo, Assistências por Jogo, Sofreu Gol etc.)
+ Criar pipeline de transformação por script (modularizado)
 
-3. **Carga**
-   - Salva os arquivos `.csv` prontos para leitura no Power BI
+ Criar main.py sequencial com orquestração por argumentos
 
----
+ Adicionar métricas avançadas (xG, xA, passes decisivos, pressão, etc.)
 
-## 📌 Próximos Passos
+ Adicionar dados do FBref ou Transfermarkt
 
-- [x] Finalizar scraping de todas as partidas disponíveis de 2024–2025
-- [x] Criar pipeline de transformação por script (já modularizado)
-- [ ] Criar `main.py` sequencial
-- [ ] Adicionar métricas avançadas (xG, xA, passes decisivos, pressão, etc.)
-- [ ] Adicionar dados do FBref ou Transfermarkt no futuro
-- [ ] Criar visualizações públicas no Power BI
-- [ ] Extrair dados de outros campeonatos e outras temporadas do Brasileirão 
+ Criar visualizações públicas no Power BI
 
----
+ Escalar o projeto com BigQuery + GCP Cloud Functions
 
-## 📬 Contato
+ Criar agendamentos com Airflow ou Cloud Scheduler
 
-**Lucas Scalioni de Souza**  
-[LinkedIn](https://www.linkedin.com/in/lucas-scalioni-de-souza-7b1537138)  
+📬 Contato
+Lucas Scalioni de Souza
+🔗 LinkedIn
 📧 lucasscalioni@gmail.com
