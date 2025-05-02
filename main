@@ -1,23 +1,13 @@
-whoscored_pipeline/
-│
+scraper-whoscored-brasileirao/
 ├── data/
-│   ├── Data raw/           ← entrada
-│   └── Tables/             ← saída
-│
-├── pipeline/
-│   ├── extract/
-│   │   ├── extract_match_events.py
-│   │   └── extract_player_events.py
-│   │
-│   ├── transform/
-│   │   ├── process_eventos_partida.py
-│   │   ├── process_eventos_jogadores.py
-│   │   └── process_dpartidas.py
-│   │
-│   └── load/
-│       └── save_outputs.py (opcional)
-│
-├── main.py                 ← orquestra tudo com argumentos ou menu
-├── requirements.txt        ← dependências
-├── .env (futuro GCP/BQ)    ← variáveis de ambiente
-└── README.md               ← explicação + fluxograma
+│   ├── Data raw/           # Entrada de dados brutos
+│   └── Tables/             # Saída de dados processados
+├── scripts/
+│   ├── fEventosPartidas.py
+│   ├── fEventosJogadores.py
+│   ├── dPartidas.py
+│   ├── dJogador.py
+│   ├── Extraction_match_events_whoscored.py
+│   └── Extraction_players_events_whoscored.py
+├── main.py
+└── README.md
