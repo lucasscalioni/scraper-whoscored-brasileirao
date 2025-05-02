@@ -41,10 +41,6 @@ scraper-whoscored-brasileirao/
 ├── requirements.txt # Dependências do projeto
 └── README.md
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## 🛠 Ferramentas Utilizadas
