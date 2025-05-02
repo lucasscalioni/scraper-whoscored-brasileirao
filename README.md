@@ -107,22 +107,17 @@ python main.py --eventos-partida        # Processamento e geração do fEventosP
 python main.py --eventos-jogadores      # Processamento e geração do fEventosJogadores.csv
 python main.py --dpartidas              # Geração da tabela dPartidas.csv
 python main.py --djogadores             # Atualização da tabela dJogadores.csv
-📌 Próximos Passos
- Finalizar scraping de todas as partidas disponíveis de 2024–2025
+## 📌 Próximos Passos
 
- Criar pipeline de transformação por script (modularizado)
+- [x] Finalizar scraping de todas as partidas disponíveis de 2024–2025
+- [x] Criar pipeline de transformação por script (modularizado)
+- [x] Criar `main.py` sequencial com orquestração por argumentos
+- [ ] Adicionar métricas avançadas (xG, xA, passes decisivos, pressão, etc.)
+- [ ] Adicionar dados do FBref ou Transfermarkt
+- [ ] Criar visualizações públicas no Power BI
+- [ ] Escalar o projeto com BigQuery + GCP Cloud Functions
+- [ ] Criar agendamentos com Airflow ou Cloud Scheduler
 
- Criar main.py sequencial com orquestração por argumentos
-
- Adicionar métricas avançadas (xG, xA, passes decisivos, pressão, etc.)
-
- Adicionar dados do FBref ou Transfermarkt
-
- Criar visualizações públicas no Power BI
-
- Escalar o projeto com BigQuery + GCP Cloud Functions
-
- Criar agendamentos com Airflow ou Cloud Scheduler
 
 📬 Contato
 Lucas Scalioni de Souza
