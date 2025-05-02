@@ -100,7 +100,7 @@ minuto, time, tipo, jogador, assist, placar_momento, descricao, Resultado, Data
 ## 🚀 Pipeline ETL (modularizado via `main.py`)
 
 ### Comandos disponíveis:
-```bash
+---
 python main.py --extrair-eventos        # Scraping da timeline de eventos (gols, assistências, cartões)
 python main.py --extrair-jogadores      # Scraping das estatísticas dos jogadores
 python main.py --eventos-partida        # Processamento e geração do fEventosPartida.csv
