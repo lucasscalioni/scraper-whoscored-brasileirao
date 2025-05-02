@@ -17,31 +17,31 @@ Desenvolver um pipeline ETL completo para automatizar a **coleta, transformaçã
 
 ## 📦 Estrutura do Projeto
 
+```text
 scraper-whoscored-brasileirao/
 │
 ├── data/
-│ ├── raw/ # Arquivos brutos extraídos com Selenium
-│ └── tables/ # Arquivos tratados prontos para Power BI
-│ ├── fEventosJogadores.csv
-│ ├── fEventosPartida.csv
-│ ├── dJogadores.csv
-│ ├── dPartidas.csv
-│ └── dTimes.csv # Feito manualmente
+│   ├── raw/                              # Arquivos brutos extraídos com Selenium
+│   └── tables/                           # Arquivos tratados prontos para Power BI
+│       ├── fEventosJogadores.csv
+│       ├── fEventosPartida.csv
+│       ├── dJogadores.csv
+│       ├── dPartidas.csv
+│       └── dTimes.csv                    # Feito manualmente
 │
 ├── scripts/
-│ ├── Extraction_urls.py
-│ ├── Extraction_players_events_whoscored.py
-│ ├── Extraction_match_events_whoscored.py
-│ ├── fEventosJogadores.py
-│ ├── fEventosPartidas.py
-│ ├── dJogador.py
-│ └── dPartidas.py
+│   ├── Extraction_urls.py
+│   ├── Extraction_players_events_whoscored.py
+│   ├── Extraction_match_events_whoscored.py
+│   ├── fEventosJogadores.py
+│   ├── fEventosPartidas.py
+│   ├── dJogador.py
+│   └── dPartidas.py
 │
-├── main.py # Orquestrador CLI do pipeline ETL
-├── requirements.txt # Dependências do projeto
+├── main.py                               # Orquestrador CLI do pipeline ETL
+├── requirements.txt                      # Dependências do projeto
 └── README.md
-
----
+```
 
 ## 🛠 Ferramentas Utilizadas
 
